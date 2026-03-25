@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Project Specific
+**/input/*.pdf
+**/output/
+debug_*.py
+test_debug.py
+.gemini/
+
+# OS
+.DS_Store
+Thumbs.db
