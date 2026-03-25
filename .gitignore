@@ -7,8 +7,6 @@ __pycache__/
 venv/
 
 # Project Specific
-**/input/*.pdf
-**/output/
 debug_*.py
 test_debug.py
 .gemini/

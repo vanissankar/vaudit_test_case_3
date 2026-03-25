@@ -1,0 +1,225 @@
+{
+    "metadata": {
+        "Bank Name": "Standard Chartered Bank",
+        "Account Holder Name": "SEENIVASAN",
+        "Account Number": "42710540422",
+        "IFSC": "SCBL0036078",
+        "MICR": "600036005 , IFSC: SCBL0036078 , PHONE NO.: 25349005",
+        "Branch": "days from date of transaction for domestic debit card",
+        "Statement Date": "or 21 days from date of transaction for domestic debit card transactions",
+        "Statement Period": "Not Found",
+        "filename": "bank statement 2.pdf",
+        "page_count": 4
+    },
+    "summary": {
+        "total_debit": 58277.17,
+        "total_credit": 69312.83,
+        "number_of_transactions": 29,
+        "final_balance": 116155.36
+    },
+    "transactions": [
+        [
+            "16 Jun 19",
+            "Jun 19 BALANCE FORWARD",
+            0.0,
+            0.0,
+            114453.65
+        ],
+        [
+            "17 Jun 19",
+            "Jun 19 ATM WITHDRAWAL SELF-SWITCH AT NFS 04:54:54/ /INR /361818",
+            0.0,
+            1500.0,
+            112953.65
+        ],
+        [
+            "18 Jun 19",
+            "Jun 19 ATM WITHDRAWAL SELF-SWITCH AT NFS 10:34:49/ /INR /090814 PURCHASE ANANDA VILAS HOTEL VIRUDHUNAGAR IN 13:44:16/369548 /INR / CRADJ/UPI/AXB//2019-06-",
+            1035.49,
+            1500.0,
+            111453.65
+        ],
+        [
+            "19 Jun 19",
+            "Jun 19 ATM WITHDRAWAL SELF-SWITCH AT NFS 12:10:47/ /INR /961248 ATM WITHDRAWAL SELF-SWITCH AT CASHNT 15:38:29/ /INR /192131",
+            0.0,
+            2000.0,
+            109523.14
+        ],
+        [
+            "21 Jun 19",
+            "Jun 19 UPI// PAYTM/PAYTM@ICICI/ICIC0000555/ 0103SL00IPAY/OID20190621050469855386@ONE9 7COMMUNIC / UPI// LE TRAVENUES TECHNOLOGY PRIVATE LTD/IXIGO@AXISBANK /LE TRAVENUES TECHNOLOGY PRIVATE LIMI /",
+            0.0,
+            10.17,
+            108012.97
+        ],
+        [
+            "24 Jun 19",
+            "Jun 19 ATM WITHDRAWAL SELF-SWITCH AT NFS 22:31:27/ /INR /293386",
+            0.0,
+            1000.0,
+            105777.48
+        ],
+        [
+            "24 Jun 19",
+            "BALANCE FORWARD",
+            0.0,
+            0.0,
+            105777.48
+        ],
+        [
+            "24 Jun 19",
+            "UPI// /CRRAJAGURU@OKSBI/ RAJAGURU R/SBIN0000859/SEASON TICKET/ / UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8569807937@ONE97COMMU NICATIONSLI / ATM WITHDRAWAL SELF-SWITCH AT NFS 20:10:24/ /INR /288640",
+            330.0,
+            300.0,
+            106107.48
+        ],
+        [
+            "25 Jun 19",
+            "UPI// AMAZONPAY/AMAZONPAY@APL/UTIB0000000/ /AMAZONPAY PURCHASE/ / UPI// BILLDESKTEZ/BILLDESK.TNEB@ICICI/ICIC000055 5/ 0103SL00IPAY/UPI/ / ATM WITHDRAWAL SELF-SWITCH AT NFS 22:10:19/ /INR /362762",
+            0.0,
+            449.0,
+            103858.48
+        ],
+        [
+            "27 Jun 19",
+            "NON SCB ATM USAGE CHARGES MAY 19 CGST @ 9.00% SGST @ 9.00%",
+            0.0,
+            120.0,
+            102238.48
+        ],
+        [
+            "28 Jun 19",
+            "UPI// AIRTEL.IN/AIRTELIN@HDFCBANK/HDFC0000053/ /BHARTI AIRTEL LIMITED PREPAID 15 / ATM WITHDRAWAL SELF-SWITCH AT CASHNT 20:50:44/9944 /INR /019212",
+            0.0,
+            399.0,
+            101817.88
+        ],
+        [
+            "29 Jun 19",
+            "PURCHASE G R THANGAMALIGAI CHENNAI IN 10:13:08/726630 /INR / CREDIT OF INTEREST",
+            797.0,
+            14000.0,
+            86017.88
+        ],
+        [
+            "01 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8628127265@ONE97COMMU NICATIONSLI /",
+            0.0,
+            100.0,
+            86714.88
+        ],
+        [
+            "01 Jul 19",
+            "UPI// AMAZON/AMAZON@APL/UTIB0000001/ /REQUEST FROM AMAZON / UPI// /GOOG-PAYMENT@OKAXIS/ GOOGLEPAY/UTIB0000553/UPI/ / PURCHASE LAKSHMI KANTHAM SERVIC E SCHENNAI IN 20:13:33/408459 /INR /",
+            0.0,
+            700.0,
+            86014.88
+        ],
+        [
+            "02 Jul 19",
+            "ATM WITHDRAWAL SELF-SWITCH AT NFS 21:12:31/ /INR /935678",
+            0.0,
+            1000.0,
+            84725.02
+        ],
+        [
+            "04 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8662436149@ONE97COMMU NICATIONSLI /",
+            0.0,
+            50.0,
+            84675.02
+        ],
+        [
+            "04 Jul 19",
+            "BALANCE FORWARD",
+            0.0,
+            0.0,
+            84675.02
+        ],
+        [
+            "05 Jul 19",
+            "UPI// DUMMY NAME/VIJB0003102/ /UPI/ / UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8666207120@ONE97COMMU NICATIONSLI / UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8667360758@ONE97COMMU NICATIONSLI / UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8669707673@ONE97COMMU NICATIONSLI /",
+            0.0,
+            7800.0,
+            76875.02
+        ],
+        [
+            "06 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8678907265@ONE97COMMU NICATIONSLI /",
+            0.0,
+            100.0,
+            76365.02
+        ],
+        [
+            "08 Jul 19",
+            "ATM WITHDRAWAL SELF-SWITCH AT NFS 10:24:13/ /INR /968641 UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8686363667@ONE97COMMU NICATIONSLI /",
+            0.0,
+            1500.0,
+            74865.02
+        ],
+        [
+            "08 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8690806707@ONE97COMMU NICATIONSLI / UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8694279146@ONE97COMMU NICATIONSLI /",
+            0.0,
+            50.0,
+            74765.02
+        ],
+        [
+            "09 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8698506403@ONE97COMMU NICATIONSLI / DISCOUNT ON FUEL PU VISA POS ON 140",
+            2.34,
+            500.0,
+            74215.02
+        ],
+        [
+            "10 Jul 19",
+            "IN3670190710M982 SBIN319191137575 OASYS NEFT STATE BANK OF INDIA",
+            67148.0,
+            0.0,
+            141365.36
+        ],
+        [
+            "11 Jul 19",
+            "ATM WITHDRAWAL SELF-SWITCH AT NFS 11:57:02/ /INR /629859",
+            0.0,
+            1500.0,
+            139865.36
+        ],
+        [
+            "15 Jul 19",
+            "PURCHASE LIFE STYLE CHENNAI IN 20:56:43/040950 /INR /",
+            0.0,
+            3599.0,
+            136266.36
+        ],
+        [
+            "15 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8743469606@ONE97COMMU NICATIONSLI / UPI// INDIAIDEAS/INDIAIDEAS@ICICI/ICIC0000103/ 0103SL00IPAY/COLLECT-PAY-REQUEST/ /",
+            0.0,
+            100.0,
+            136166.36
+        ],
+        [
+            "15 Jul 19",
+            "IMPS/P2A// ICIC0000350 MANIKANDAN R MANI ANNA",
+            0.0,
+            20000.0,
+            116145.36
+        ],
+        [
+            "15 Jul 19",
+            "BALANCE FORWARD UPI// 600036138/SCBL0036078/ MR H MOHAMMED HAKKEEM/LIC PREMIUM/ / ATM WITHDRAWAL SELF-SWITCH AT NFS 22:21:45/ /INR /246263",
+            1660.0,
+            1500.0,
+            116145.36
+        ],
+        [
+            "16 Jul 19",
+            "UPI// PAYTM/ADD-MONEY@PAYTM/PYTM0123456/ /OID8756371358@ONE97COMMU NICATIONSLI / IMPS P2A CHARGES 150719 CGST @ 9.00% SGST @ 9.00% STATEMENT FOR 42710540422 Opening Balance 1,456 STATEMENT FOR 42710540422 Opening Balance 525",
+            70986.83,
+            150.0,
+            116155.36
+        ]
+    ]
+}

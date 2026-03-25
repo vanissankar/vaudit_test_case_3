@@ -1,0 +1,701 @@
+{
+    "metadata": {
+        "Bank Name": "Karur Vysya Bank",
+        "Account Holder Name": "AKASH M G",
+        "Account Number": "1654170000004760",
+        "IFSC": "Not Found",
+        "MICR": "Not Found",
+        "Branch": "Road,Karur-639002(Tamilnadu) www.kvb.co.in",
+        "Statement Date": "20/03/2026",
+        "Statement Period": "Not Found",
+        "filename": "1654170000004760 _ 20-FEB-2026_19-MAR-2026 - Copy - Copy - Copy - Copy - Copy - Copy.pdf",
+        "page_count": 5
+    },
+    "summary": {
+        "total_debit": 23328.18,
+        "total_credit": 21258.02,
+        "number_of_transactions": 97,
+        "final_balance": 142.6
+    },
+    "transactions": [
+        [
+            "20/02/2026",
+            "B/F...",
+            0.0,
+            0.0,
+            2212.76
+        ],
+        [
+            "20/02/2026",
+            "UPI-DR--Vinthiya T R-SBIN-00",
+            0.0,
+            70.0,
+            2142.76
+        ],
+        [
+            "21/02/2026",
+            "UPI-DR--Swiggy-UTIB-10001291",
+            0.0,
+            301.0,
+            1841.76
+        ],
+        [
+            "21/02/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            120.0,
+            0.0,
+            1961.76
+        ],
+        [
+            "21/02/2026",
+            "UPI-CR--Vinthiya T R-SBIN-00",
+            124.0,
+            0.0,
+            2085.76
+        ],
+        [
+            "21/02/2026",
+            "UPI-DR--Swiggy-UTIB-10001291",
+            0.0,
+            180.0,
+            1905.76
+        ],
+        [
+            "22/02/2026",
+            "UPI-DR--SPOTIFY INDIA PVT",
+            0.0,
+            49.0,
+            1856.76
+        ],
+        [
+            "22/02/2026",
+            "UPI-DR--E SRAVAN KUMAR-YESB-",
+            0.0,
+            15.0,
+            1841.76
+        ],
+        [
+            "22/02/2026",
+            "UPI-DR--GORUKASULA",
+            0.0,
+            882.0,
+            959.76
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--E SRAVAN KUMAR-YESB-",
+            0.0,
+            30.0,
+            929.76
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--K717 KFC Raidurgam-Y",
+            0.0,
+            145.95,
+            783.81
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--Vinthiya T R-SBIN-00",
+            0.0,
+            42.0,
+            741.81
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--gangeshsubramaniamok",
+            0.0,
+            50.0,
+            691.81
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--gangeshsubramaniamok",
+            0.0,
+            78.0,
+            613.81
+        ],
+        [
+            "23/02/2026",
+            "UPI-CR--Mr GANGESHWAR ask for personal security details disclose your passwords to anyone, Vysya Bank,Central Office,Erode",
+            150.0,
+            0.0,
+            763.81
+        ],
+        [
+            "23/02/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            83.33,
+            0.0,
+            847.14
+        ],
+        [
+            "23/02/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            53.0,
+            0.0,
+            900.14
+        ],
+        [
+            "23/02/2026",
+            "UPI-CR--GEETHA MURUGESAN-BAR",
+            8000.0,
+            0.0,
+            8900.14
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--MARTHA RADHA-BKID-5",
+            0.0,
+            100.0,
+            8800.14
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--gangeshsubramaniamok",
+            0.0,
+            253.0,
+            8547.14
+        ],
+        [
+            "23/02/2026",
+            "UPI-CR--MITHRAN U S-KVBL-126",
+            1037.18,
+            0.0,
+            9584.32
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--gangeshsubramaniamok",
+            0.0,
+            123.0,
+            9461.32
+        ],
+        [
+            "23/02/2026",
+            "UPI-DR--BANDI RAMAKRISHNA",
+            0.0,
+            8000.0,
+            1461.32
+        ],
+        [
+            "25/02/2026",
+            "UPI-CR--MITHRAN U S-KVBL-126",
+            126.5,
+            0.0,
+            1587.82
+        ],
+        [
+            "26/02/2026",
+            "UPI-DR--Euronet Services",
+            0.0,
+            51.0,
+            1536.82
+        ],
+        [
+            "26/02/2026",
+            "UPI-DR--Kanishka V U-SBIN-00",
+            0.0,
+            100.0,
+            1436.82
+        ],
+        [
+            "27/02/2026",
+            "UPI-DR--Ras Enterprises-YESB",
+            0.0,
+            130.0,
+            1306.82
+        ],
+        [
+            "27/02/2026",
+            "UPI-DR--S USHA RAN-FDRL-1382",
+            0.0,
+            45.0,
+            1261.82
+        ],
+        [
+            "27/02/2026",
+            "UPI-DR--S USHA RAN-FDRL-1382",
+            0.0,
+            35.0,
+            1226.82
+        ],
+        [
+            "28/02/2026",
+            "UPI-DR--KKKONKA FOOD",
+            0.0,
+            116.0,
+            1110.82
+        ],
+        [
+            "28/02/2026",
+            "UPI-DR--Swiggy Limited-UTIB-",
+            0.0,
+            275.0,
+            835.82
+        ],
+        [
+            "01/03/2026",
+            "UPI-DR--KKKONKA FOOD",
+            0.0,
+            114.0,
+            721.82
+        ],
+        [
+            "02/03/2026",
+            "UPI-DR--dominos-UTIB-1000129",
+            0.0,
+            178.0,
+            543.82
+        ],
+        [
+            "02/03/2026",
+            "UPI-DR--Vinthiya T R-SBIN-00",
+            0.0,
+            25.0,
+            518.82
+        ],
+        [
+            "02/03/2026",
+            "UPI-DR--ADULLAPALLI SAI",
+            0.0,
+            130.0,
+            388.82
+        ],
+        [
+            "02/03/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            80.0,
+            0.0,
+            468.82
+        ],
+        [
+            "03/03/2026",
+            "UPI-DR--S USHA RAN-FDRL-1382",
+            0.0,
+            50.0,
+            418.82
+        ],
+        [
+            "03/03/2026",
+            "UPI-DR--S USHA RAN-FDRL-1382",
+            0.0,
+            25.0,
+            393.82
+        ],
+        [
+            "03/03/2026",
+            "UPI-CR--GOUTHAM M-KVBL-16541",
+            2000.0,
+            0.0,
+            2393.82
+        ],
+        [
+            "04/03/2026",
+            "POS/E-POS/0308898636/AMAZON WEBSERVICE/9",
+            0.0,
+            6.38,
+            2387.44
+        ],
+        [
+            "04/03/2026",
+            "UPI-DR--Euronet Services",
+            0.0,
+            51.0,
+            2336.44
+        ],
+        [
+            "05/03/2026",
+            "UPI-DR--S USHA RAN-FDRL-1382",
+            0.0,
+            25.0,
+            2311.44
+        ],
+        [
+            "05/03/2026",
+            "UPI-DR--E SRAVAN KUMAR-YESB-",
+            0.0,
+            90.0,
+            2221.44
+        ],
+        [
+            "05/03/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            60.0,
+            0.0,
+            2281.44
+        ],
+        [
+            "05/03/2026",
+            "UPI-DR--E SRAVAN KUMAR-YESB-",
+            0.0,
+            20.0,
+            2261.44
+        ],
+        [
+            "05/03/2026",
+            "UPI-DR--E SRAVAN KUMAR-YESB-",
+            0.0,
+            70.0,
+            2191.44
+        ],
+        [
+            "05/03/2026",
+            "UPI-DR--Mrs Yeshaboina Mane",
+            0.0,
+            30.0,
+            2161.44
+        ],
+        [
+            "06/03/2026",
+            "UPI-DR--ANGARA VEERABABU-SB",
+            0.0,
+            50.0,
+            2111.44
+        ],
+        [
+            "06/03/2026",
+            "UPI-DR--Ras Enterprises-YESB",
+            0.0,
+            70.0,
+            2041.44
+        ],
+        [
+            "06/03/2026",
+            "UPI-DR--Mr SEELI PRASAD-UNBA",
+            0.0,
+            80.0,
+            1961.44
+        ],
+        [
+            "07/03/2026",
+            "UPI-DR--Burger King-KKBK-064",
+            0.0,
+            253.0,
+            1708.44
+        ],
+        [
+            "07/03/2026",
+            "UPI-DR--RAGHUNATH-YESB-00142",
+            0.0,
+            20.0,
+            1688.44
+        ],
+        [
+            "07/03/2026",
+            "UPI-DR--E SRAVAN KUMAR-YESB-",
+            0.0,
+            15.0,
+            1673.44
+        ],
+        [
+            "08/03/2026",
+            "UPI-CR--MURUGESAN A",
+            5000.0,
+            0.0,
+            6673.44
+        ],
+        [
+            "09/03/2026",
+            "UPI-DR--KKKONKA FOOD",
+            0.0,
+            120.0,
+            6553.44
+        ],
+        [
+            "09/03/2026",
+            "UPI-DR--ARUL-CNRB-1100776552",
+            0.0,
+            4600.0,
+            1953.44
+        ],
+        [
+            "09/03/2026",
+            "UPI-DR--S USHA RAN-FDRL-1382",
+            0.0,
+            80.0,
+            1873.44
+        ],
+        [
+            "09/03/2026",
+            "UPI-CR--Vinthiya T R-SBIN-00",
+            35.0,
+            0.0,
+            1908.44
+        ],
+        [
+            "09/03/2026",
+            "UPI-DR--MR SANGRAM-YESB-0022",
+            0.0,
+            80.0,
+            1828.44
+        ],
+        [
+            "09/03/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            40.0,
+            0.0,
+            1868.44
+        ],
+        [
+            "10/03/2026",
+            "UPI-DR--Redbus India Private",
+            0.0,
+            864.0,
+            1004.44
+        ],
+        [
+            "10/03/2026",
+            "UPI-CR--MURUGESAN A",
+            2000.0,
+            0.0,
+            3004.44
+        ],
+        [
+            "10/03/2026",
+            "UPI-DR--JIO-KKBK-07286780000",
+            0.0,
+            69.0,
+            2935.44
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--gangeshsubramaniamok",
+            0.0,
+            100.0,
+            2835.44
+        ],
+        [
+            "11/03/2026",
+            "UPI-CR--Mr GANGESHWAR",
+            100.0,
+            0.0,
+            2935.44
+        ],
+        [
+            "11/03/2026",
+            "UPI-CR--GOOGLE INDIA",
+            2.0,
+            0.0,
+            2937.44
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--gangeshsubramaniamok",
+            0.0,
+            99.0,
+            2838.44
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--Google India Digital",
+            0.0,
+            200.9,
+            2637.54
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--Redbus India Private",
+            0.0,
+            1258.95,
+            1378.59
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--Redbus India Private",
+            0.0,
+            934.0,
+            444.59
+        ],
+        [
+            "11/03/2026",
+            "UPI-CR--Google India Digital",
+            929.0,
+            0.0,
+            1373.59
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--Redbus India Private",
+            0.0,
+            1064.0,
+            309.59
+        ],
+        [
+            "11/03/2026",
+            "UPI-DR--Mr SEELI PRASAD-UNBA",
+            0.0,
+            40.0,
+            269.59
+        ],
+        [
+            "12/03/2026",
+            "UPI-DR--Ras Enterprises-YESB",
+            0.0,
+            70.0,
+            199.59
+        ],
+        [
+            "12/03/2026",
+            "UPI-CR--GEETHA M-SBIN-00000",
+            1000.0,
+            0.0,
+            1199.59
+        ],
+        [
+            "13/03/2026",
+            "UPI-DR--KANCHI CAFE-YESB-002",
+            0.0,
+            114.0,
+            1085.59
+        ],
+        [
+            "13/03/2026",
+            "UPI-DR--BIKASH SAHU-BKID-535",
+            0.0,
+            108.0,
+            977.59
+        ],
+        [
+            "13/03/2026",
+            "UPI-DR--SWIGGY LIMITED-UTIB-",
+            0.0,
+            175.0,
+            802.59
+        ],
+        [
+            "13/03/2026",
+            "UPI-CR--Google India Digital",
+            175.0,
+            0.0,
+            977.59
+        ],
+        [
+            "13/03/2026",
+            "UPI-DR--Mr BADAVATH",
+            0.0,
+            30.0,
+            947.59
+        ],
+        [
+            "13/03/2026",
+            "UPI-DR--ISTIAQ MOHAMMED-YESB",
+            0.0,
+            85.0,
+            862.59
+        ],
+        [
+            "14/03/2026",
+            "UPI-CR--Decfin Tech Pvt Ltd-",
+            0.01,
+            0.0,
+            862.6
+        ],
+        [
+            "14/03/2026",
+            "IMPS--SETU-UTIB-xxxxxxxx9257",
+            1.0,
+            0.0,
+            863.6
+        ],
+        [
+            "14/03/2026",
+            "UPI-DR--The Deagh Restaurant",
+            0.0,
+            50.0,
+            813.6
+        ],
+        [
+            "14/03/2026",
+            "UPI-DR--Ali Salam Badaam-YES",
+            0.0,
+            290.0,
+            523.6
+        ],
+        [
+            "15/03/2026",
+            "UPI-DR--Kabindar Kumar",
+            0.0,
+            52.0,
+            471.6
+        ],
+        [
+            "15/03/2026",
+            "UPI-DR--TRIVENI BAKERY",
+            0.0,
+            20.0,
+            451.6
+        ],
+        [
+            "16/03/2026",
+            "UPI-DR--TKANAMONI",
+            0.0,
+            80.0,
+            371.6
+        ],
+        [
+            "16/03/2026",
+            "UPI-DR--Swiggy-ICIC-0103SL00",
+            0.0,
+            6.0,
+            365.6
+        ],
+        [
+            "17/03/2026",
+            "UPI-DR--Cream Stone Creation",
+            0.0,
+            185.0,
+            180.6
+        ],
+        [
+            "17/03/2026",
+            "UPI-DR--Cream Stone Creation",
+            0.0,
+            10.0,
+            170.6
+        ],
+        [
+            "17/03/2026",
+            "UPI-CR--KOLLIMARLA",
+            90.0,
+            0.0,
+            260.6
+        ],
+        [
+            "17/03/2026",
+            "UPI-DR--Ras Enterprises-YESB",
+            0.0,
+            70.0,
+            190.6
+        ],
+        [
+            "18/03/2026",
+            "UPI-DR--MITHRAN U S-ICIC-603",
+            0.0,
+            50.0,
+            140.6
+        ],
+        [
+            "18/03/2026",
+            "UPI-CR--MITHRAN U S-KVBL-126",
+            50.0,
+            0.0,
+            190.6
+        ],
+        [
+            "19/03/2026",
+            "UPI-DR--Mr RAKESH KUMAR-YESB",
+            0.0,
+            50.0,
+            140.6
+        ],
+        [
+            "19/03/2026",
+            "UPI-CR--GOOGLE INDIA",
+            2.0,
+            0.0,
+            142.6
+        ]
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "Bank Name": "Bank (CIUB)",
+        "Account Holder Name": "10,002.95",
+        "Account Number": "10926139",
+        "IFSC": "CIUB0000528",
+        "MICR": "Not Found",
+        "Branch": "THIRUMALAISAMUDRAM",
+        "Statement Date": "Nov 18, 2019, at 10:32 PM",
+        "Statement Period": "Not Found",
+        "filename": "438895675-TransNum-Nov-18-223225.pdf",
+        "page_count": 1
+    },
+    "summary": {
+        "total_debit": 59371.19,
+        "total_credit": 119536.0,
+        "number_of_transactions": 16,
+        "final_balance": 952.81
+    },
+    "transactions": [
+        [
+            "01/10/2019",
+            "BY CREDIT:SALARYSEP19:00528",
+            56268.0,
+            0.0,
+            56824.0
+        ],
+        [
+            "01/10/2019",
+            "TO ATM WDL:CUB01925-SASTRA IV THANJAVUR TNIN:",
+            0.0,
+            10000.0,
+            46824.0
+        ],
+        [
+            "01/10/2019",
+            "TO ONL IMPSCUB927417175080:NITHYA D/KVBL/FROMSURESH::00528",
+            0.0,
+            10002.95,
+            36821.05
+        ],
+        [
+            "02/10/2019",
+            "TO POS:30205069-SENTHIL SCANS THANJAVUR IND:",
+            0.0,
+            800.0,
+            36021.05
+        ],
+        [
+            "02/10/2019",
+            "TO POS:68550082-JOS ALUKKAS THANJAVUR IND:",
+            0.0,
+            5000.0,
+            31021.05
+        ],
+        [
+            "04/10/2019",
+            "TO ONL IMPSCUB927711229894:V S VEERAP/LAVB/RENTSURESH::00528",
+            0.0,
+            7502.95,
+            23518.1
+        ],
+        [
+            "04/10/2019",
+            "TO ONL IMPSCUB927711229941:R SURESH/IOBA/FROMSURESH::00528",
+            0.0,
+            15002.95,
+            8515.15
+        ],
+        [
+            "06/10/2019",
+            "TO POS:33392271-MUTHULAKSHMI ENTERP TANJORE IND:",
+            0.0,
+            295.0,
+            8220.15
+        ],
+        [
+            "07/10/2019",
+            "TO ECS CR/DR:ECS DEBIT: HDFC BANK LIMITED::00121",
+            0.0,
+            6911.0,
+            1309.15
+        ],
+        [
+            "07/10/2019",
+            "TO ONL IRCTC:PAYMENT::00528",
+            0.0,
+            420.48,
+            888.67
+        ],
+        [
+            "07/10/2019",
+            "TO ONL IRCTC:PAYMENT::00528",
+            0.0,
+            420.48,
+            468.19
+        ],
+        [
+            "07/10/2019",
+            "BY ONL 0000IMPSBOB928022768638:PARAMESWAR/EMIAMOUNT::00528",
+            3500.0,
+            0.0,
+            3968.19
+        ],
+        [
+            "10/10/2019",
+            "TO ECOM:89050036-AMAZON PAY 8033420300 IND:",
+            0.0,
+            779.0,
+            3189.19
+        ],
+        [
+            "26/10/2019",
+            "TO ATM WDL:SWCW8421-EDYAR PALAYAM COIMBATORE TNIN:",
+            0.0,
+            1500.0,
+            1689.19
+        ],
+        [
+            "31/10/2019",
+            "TO ONL UPI/DR//IRCTCC/HDFC/RAZORPAY.I/IRC::00528",
+            0.0,
+            327.7,
+            1361.49
+        ],
+        [
+            "31/10/2019",
+            "TO ONL UPI/DR//IRCTCRAZ/ICIC/IRCTC.RAZO/I::00528 * Statement Downloaded By SURESH R on If any discrepancy in the statement,should END OF STATEMENT - from Internet Banking",
+            59768.0,
+            408.68,
+            952.81
+        ]
+    ]
+}
