@@ -1,0 +1,3771 @@
+{
+    "metadata": {
+        "Bank Name": "HDFC Bank",
+        "Account Holder Name": "ANNAPUSBAM",
+        "Account Number": "920020021180076",
+        "page_count": 15,
+        "source_files": [
+            "AJDPI2253B-BANK STATEMENT - AXIS BANK.pdf"
+        ]
+    },
+    "transactions": [
+        {
+            "date": "02-04-2024",
+            "description": "RTGS/HDFCR52024040294568636/TEEMAGEBUILDERSPVT",
+            "credit": 742160.0,
+            "debit": 0.0,
+            "balance": 1806025.67
+        },
+        {
+            "date": "02-04-2024",
+            "description": "IMPS/P2A//RAPARTHI/Visakhap/Moosapet/91905",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 1795555.67
+        },
+        {
+            "date": "02-04-2024",
+            "description": "IMPS/P2A//RAPARTHI/Visakhap/Moosapet/91905",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 1845555.67
+        },
+        {
+            "date": "02-04-2024",
+            "description": "IMPS/P2A//RAPARTHI/Visakhap/Moosapet/91905",
+            "credit": 44915.0,
+            "debit": 0.0,
+            "balance": 1890470.67
+        },
+        {
+            "date": "02-04-2024",
+            "description": "PRIVATE LIMITED/YOURSELF KUMAR N /Rice",
+            "credit": 58777.0,
+            "debit": 0.0,
+            "balance": 1949247.67
+        },
+        {
+            "date": "02-04-2024",
+            "description": "IMPS/P2A//RAPARTHI/Visakhap/Moosapet/91905",
+            "credit": 0.0,
+            "debit": 1980.0,
+            "balance": 1947267.67
+        },
+        {
+            "date": "03-04-2024",
+            "description": "IMPS/P2A//RAPARTHI/Visakhap/Transpor/91905",
+            "credit": 17084.0,
+            "debit": 0.0,
+            "balance": 1964351.67
+        },
+        {
+            "date": "03-04-2024",
+            "description": "IMPS/P2A//RAPARTHI/Visakhap/Transpor/91905",
+            "credit": 6000.0,
+            "debit": 0.0,
+            "balance": 1970351.67
+        },
+        {
+            "date": "03-04-2024",
+            "description": "R /UPI/Indian",
+            "credit": 204720.0,
+            "debit": 0.0,
+            "balance": 2175071.67
+        },
+        {
+            "date": "03-04-2024",
+            "description": "Marketing/UNION",
+            "credit": 0.0,
+            "debit": 17145.0,
+            "balance": 2157926.67
+        },
+        {
+            "date": "04-04-2024",
+            "description": "",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 2107926.67
+        },
+        {
+            "date": "05-04-2024",
+            "description": "BUILD",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 2072273.67
+        },
+        {
+            "date": "05-04-2024",
+            "description": "INDIA/bill no 23789 BUILD",
+            "credit": 0.0,
+            "debit": 249000.0,
+            "balance": 1823273.67
+        },
+        {
+            "date": "05-04-2024",
+            "description": "INDIA/bill no 16529 17426 19917 Amman and Co/CANARA",
+            "credit": 0.0,
+            "debit": 307874.0,
+            "balance": 1515399.67
+        },
+        {
+            "date": "05-04-2024",
+            "description": "Ceramics Pvt Lt/UNION",
+            "credit": 0.0,
+            "debit": 241216.0,
+            "balance": 1274183.67
+        },
+        {
+            "date": "05-04-2024",
+            "description": "3291 3415",
+            "credit": 0.0,
+            "debit": 975866.0,
+            "balance": 298317.67
+        },
+        {
+            "date": "05-04-2024",
+            "description": "DESIGNER/TPARTY TRANSFER SPACEINTEL/ICICI",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 348317.67
+        },
+        {
+            "date": "06-04-2024",
+            "description": "WELFARE IMPS/P2A//SYEDYUSU/TAMILNAD/P2AMOB/9",
+            "credit": 68620.0,
+            "debit": 0.0,
+            "balance": 416937.67
+        },
+        {
+            "date": "06-04-2024",
+            "description": "S /UPI/Karur",
+            "credit": 136400.0,
+            "debit": 0.0,
+            "balance": 553337.67
+        },
+        {
+            "date": "06-04-2024",
+            "description": "S /UPI/Karur",
+            "credit": 0.0,
+            "debit": 8700.0,
+            "balance": 544637.67
+        },
+        {
+            "date": "09-04-2024",
+            "description": "K /UPI/Canara LIMITED /UPI/Axis",
+            "credit": 0.0,
+            "debit": 25000.0,
+            "balance": 519637.67
+        },
+        {
+            "date": "10-04-2024",
+            "description": "Gift N Novel/ICICI",
+            "credit": 0.0,
+            "debit": 1192.5,
+            "balance": 518445.17
+        },
+        {
+            "date": "11-04-2024",
+            "description": "Tiles and",
+            "credit": 0.0,
+            "debit": 63270.0,
+            "balance": 455175.17
+        },
+        {
+            "date": "12-04-2024",
+            "description": "tile advance CREATIONS/CANARA",
+            "credit": 0.0,
+            "debit": 40000.0,
+            "balance": 415175.17
+        },
+        {
+            "date": "13-04-2024",
+            "description": "Tiles and",
+            "credit": 46800.0,
+            "debit": 0.0,
+            "balance": 461975.17
+        },
+        {
+            "date": "13-04-2024",
+            "description": "tile advance",
+            "credit": 0.0,
+            "debit": 28320.0,
+            "balance": 433655.17
+        },
+        {
+            "date": "15-04-2024",
+            "description": "/UPI/Yes Bank Ltd IMPS/P2A//THEINFIN/Remitter/PavitTil/9196200",
+            "credit": 0.0,
+            "debit": 77.0,
+            "balance": 433578.17
+        },
+        {
+            "date": "16-04-2024",
+            "description": "STRUCTURE PRIVATE",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 483578.17
+        },
+        {
+            "date": "16-04-2024",
+            "description": "BANK//REF///////// BANK",
+            "credit": 8900.0,
+            "debit": 0.0,
+            "balance": 492478.17
+        },
+        {
+            "date": "16-04-2024",
+            "description": "BANK",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 442478.17
+        },
+        {
+            "date": "16-04-2024",
+            "description": "INFINITE EXPLORER/HDFC",
+            "credit": 0.0,
+            "debit": 30000.0,
+            "balance": 412478.17
+        },
+        {
+            "date": "16-04-2024",
+            "description": "INFINITE EXPLORER/HDFC",
+            "credit": 82680.0,
+            "debit": 0.0,
+            "balance": 495158.17
+        },
+        {
+            "date": "17-04-2024",
+            "description": "Nat /",
+            "credit": 22100.0,
+            "debit": 0.0,
+            "balance": 517258.17
+        },
+        {
+            "date": "18-04-2024",
+            "description": "ATM-CASH-AXIS/CECN62212/6732/180424/CHENNAI",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 497258.17
+        },
+        {
+            "date": "18-04-2024",
+            "description": "ATM-CASH-AXIS/CECN62212/6733/180424/CHENNAI",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 477258.17
+        },
+        {
+            "date": "18-04-2024",
+            "description": "ATM-CASH-AXIS/CECN62212/6734/180424/CHENNAI",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 457258.17
+        },
+        {
+            "date": "18-04-2024",
+            "description": "ATM-CASH-AXIS/CECN62212/6736/180424/CHENNAI",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 447258.17
+        },
+        {
+            "date": "18-04-2024",
+            "description": "NEFT/MB/AXOMB10958603264/Immanuel/INDIAN BANK/Others",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 397258.17
+        },
+        {
+            "date": "20-04-2024",
+            "description": "INB/329013839/GST TAX PAYMENT/MAR GST TAX",
+            "credit": 0.0,
+            "debit": 150544.0,
+            "balance": 246714.17
+        },
+        {
+            "date": "20-04-2024",
+            "description": "UPI/P2A/447777583958/LOKNATH  S K         /unload/State Bank Of India",
+            "credit": 0.0,
+            "debit": 15000.0,
+            "balance": 231714.17
+        },
+        {
+            "date": "21-04-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 231614.17
+        },
+        {
+            "date": "21-04-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 231596.17
+        },
+        {
+            "date": "21-04-2024",
+            "description": "GST @18% on BNA Convenience Ch",
+            "credit": 0.0,
+            "debit": 9.0,
+            "balance": 231587.17
+        },
+        {
+            "date": "21-04-2024",
+            "description": "BNA Convenience Chrgs",
+            "credit": 0.0,
+            "debit": 50.0,
+            "balance": 231537.17
+        },
+        {
+            "date": "22-04-2024",
+            "description": "TRF/AMPA HOUSING DEVELOPMENT PRIVATE LIMITED/",
+            "credit": 11695.0,
+            "debit": 0.0,
+            "balance": 243232.17
+        },
+        {
+            "date": "25-04-2024",
+            "description": "UPI/P2A/448222491903/A GOPINATH           /UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 238232.17
+        },
+        {
+            "date": "26-04-2024",
+            "description": "NEFT/36087396341DC/CASAGRAND SPACEINTEL/ICICI BANK LIMITED/STAFF WELFARE",
+            "credit": 34726.0,
+            "debit": 0.0,
+            "balance": 272958.17
+        },
+        {
+            "date": "28-04-2024",
+            "description": "ATM-CASH/+SSM ComplexTiruvo/Chennai/280424",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 267958.17
+        },
+        {
+            "date": "28-04-2024",
+            "description": "UPI/P2A/411920466538/DHANAKKODI S         /UPI/Union Bank of India",
+            "credit": 0.0,
+            "debit": 4500.0,
+            "balance": 263458.17
+        },
+        {
+            "date": "29-04-2024",
+            "description": "UPI/P2A/448645386135/MUNISAMI    K        /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 23000.0,
+            "balance": 240458.17
+        },
+        {
+            "date": "30-04-2024",
+            "description": "NEFT/N121240209069410/HUSSAIN SANITARY STO/KARUR VYSYA BANK/",
+            "credit": 5000.0,
+            "debit": 0.0,
+            "balance": 245458.17
+        },
+        {
+            "date": "01-05-2024",
+            "description": "UPI/P2A/412241173698/NANDINI I/TJSB Saha/Payment/",
+            "credit": 54230.0,
+            "debit": 0.0,
+            "balance": 299688.17
+        },
+        {
+            "date": "01-05-2024",
+            "description": "AUR008206053846_EMI_01-05-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 289218.17
+        },
+        {
+            "date": "02-05-2024",
+            "description": "ATM-CASH/KALADIPET OFFSITE/THIRUVALLUR/020524",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 279218.17
+        },
+        {
+            "date": "02-05-2024",
+            "description": "UPI/P2A/412368252926/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 1.0,
+            "balance": 279217.17
+        },
+        {
+            "date": "02-05-2024",
+            "description": "NEFT/MB/AXOMB12386524360/Tharani/ICICI BANK LIMITED/Others",
+            "credit": 0.0,
+            "debit": 30000.0,
+            "balance": 249217.17
+        },
+        {
+            "date": "02-05-2024",
+            "description": "UPI/P2A/412358557534/LILLY S              /UPI/UCO Bank",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 247217.17
+        },
+        {
+            "date": "03-05-2024",
+            "description": "UPI/P2A/449058423179/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 5210.0,
+            "balance": 242007.17
+        },
+        {
+            "date": "04-05-2024",
+            "description": "UPI/P2A/412591651729/VIGNESH RAJ N        /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 241007.17
+        },
+        {
+            "date": "04-05-2024",
+            "description": "ATM-CASH/+THANTHAI PERIYAR/CHENNAI/040524",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 236007.17
+        },
+        {
+            "date": "04-05-2024",
+            "description": "IFT/CHQ722719/008010200021906/ARCHINOVA/SDMC:0504 M/GP20240504MBO1YI00000300/",
+            "credit": 525136.0,
+            "debit": 0.0,
+            "balance": 761143.17
+        },
+        {
+            "date": "04-05-2024",
+            "description": "UPI/P2A/412565285154/AHMED ALI            /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 741143.17
+        },
+        {
+            "date": "04-05-2024",
+            "description": "UPI/P2A/449145291702/PACHAIYAPPAN S       /advanc/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 736143.17
+        },
+        {
+            "date": "05-05-2024",
+            "description": "UPI/P2A/412616693856/A GOPINATH           /Transp/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 30000.0,
+            "balance": 706143.17
+        },
+        {
+            "date": "05-05-2024",
+            "description": "BPR008207920507_EMI_05-05-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 670490.17
+        },
+        {
+            "date": "06-05-2024",
+            "description": "UPI/P2A/449373949292/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 7000.0,
+            "balance": 663490.17
+        },
+        {
+            "date": "06-05-2024",
+            "description": "UPI/P2A/412743376351/AHMED ALI            /Vijaya/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 4000.0,
+            "balance": 659490.17
+        },
+        {
+            "date": "06-05-2024",
+            "description": "UPI/P2A/412763371416/GOOGLEPAY/Axis Bank/UPI/",
+            "credit": 3.0,
+            "debit": 0.0,
+            "balance": 659493.17
+        },
+        {
+            "date": "06-05-2024",
+            "description": "NEFT/MB/AXOMB12724097231/Tharani/ICICI BANK LIMITED/Others-Hand cash",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 609493.17
+        },
+        {
+            "date": "07-05-2024",
+            "description": "UPI/P2A/412836171588/NANDINI I/TJSB Saha/Payment/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 659493.17
+        },
+        {
+            "date": "08-05-2024",
+            "description": "INB/IFT/SAI KAMAL DESIGNER/TPARTY TRANSFER",
+            "credit": 70280.0,
+            "debit": 0.0,
+            "balance": 729773.17
+        },
+        {
+            "date": "09-05-2024",
+            "description": "UPI/P2A/413062915005/LOKNATH  S K         /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 728773.17
+        },
+        {
+            "date": "10-05-2024",
+            "description": "NEFT/0510i28683782181/MPN INFRA PROJECTS/IDBI BANK/SL//BL//TILES KALLEESWARI",
+            "credit": 212960.0,
+            "debit": 0.0,
+            "balance": 941733.17
+        },
+        {
+            "date": "10-05-2024",
+            "description": "ATM-CASH/Washermenpet 2/Chennai/100524",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 931733.17
+        },
+        {
+            "date": "10-05-2024",
+            "description": "ATM-CASH-AXIS/DWRO161905/7845/100524/CHENNAI",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 911733.17
+        },
+        {
+            "date": "11-05-2024",
+            "description": "NEFT/MB/AXOMB13163426558/Muneeswaa Marketing/UNION BANK OF INDIA/Others-yazh",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 861733.17
+        },
+        {
+            "date": "11-05-2024",
+            "description": "NEFT/MB/AXOMB13271168956/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others-Bill no 3565",
+            "credit": 0.0,
+            "debit": 400000.0,
+            "balance": 461733.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "UPI/P2A/450067022823/MUNISAMI    K        /vadava/Canara Bank",
+            "credit": 0.0,
+            "debit": 18500.0,
+            "balance": 443233.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "UPI/P2A/413420538728/A  Jaikumar          /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 4720.0,
+            "balance": 438513.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "UPI/P2A/413470434765/A GOPINATH           /UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 428513.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "NEFT/N134243037194155/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 185520.0,
+            "debit": 0.0,
+            "balance": 614033.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "NEFT/N134243037194158/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 130900.0,
+            "debit": 0.0,
+            "balance": 744933.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "NEFT/N134243037194160/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 194140.0,
+            "debit": 0.0,
+            "balance": 939073.17
+        },
+        {
+            "date": "13-05-2024",
+            "description": "14-05-2024 UPI/P2A/413552961813/IMMANUEL  R          /own/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 70000.0,
+            "balance": 869073.17
+        },
+        {
+            "date": "14-05-2024",
+            "description": "RTGS/HDFCR52024051456747355/CHAITANYA FOUNDATION P/HDFC BANK///C71620130524174545 CR RTGS HUB 15-05-2024 15-05-2024 UPI/P2A/413674815729/GOPINATH  A          /transp/State Bank Of India DR THIRUVOTTRIYUR,CHENN AI [TN] 15-05-2024 15-05-2024 UPI/P2A/450237861003/IMMANUEL  R          /own/Indian Overseas Bank DR THIRUVOTTRIYUR,CHENN AI [TN] 16-05-2024 16-05-2024 NEFT/HS92413743856868/THARANI D/ICICI BANK LIMITED/NEFT//NA/Muneeswaa /UTIB00016 CR RTGS HUB 16-05-2024 16-05-2024 INB/NEFT/AXOIR13716991920/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bills 20621  345  401",
+            "credit": 0.0,
+            "debit": 316169.0,
+            "balance": 793172.17
+        },
+        {
+            "date": "16-05-2024",
+            "description": "INB/NEFT/AXOIR13716996984/Pavit Ceramics Pvt Lt/UNION BANK OF INDIA/bills 3565  3566",
+            "credit": 0.0,
+            "debit": 269018.0,
+            "balance": 524154.17
+        },
+        {
+            "date": "16-05-2024",
+            "description": "INB/329168978/GST TAX PAYMENT/april gst tax",
+            "credit": 0.0,
+            "debit": 47955.0,
+            "balance": 476199.17
+        },
+        {
+            "date": "18-05-2024",
+            "description": "NEFT/IBKL240518239368/MPN INFRA PROJECTS/IDBI BANK/",
+            "credit": 127777.0,
+            "debit": 0.0,
+            "balance": 603976.17
+        },
+        {
+            "date": "18-05-2024",
+            "description": "UPI/P2A/413987853370/K KUMAR/Union Ban/padmanab/",
+            "credit": 51600.0,
+            "debit": 0.0,
+            "balance": 655576.17
+        },
+        {
+            "date": "18-05-2024",
+            "description": "UPI/P2M/413952511056/COMFORT THERMALS AND /UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 1800.0,
+            "balance": 653776.17
+        },
+        {
+            "date": "20-05-2024",
+            "description": "NEFT/MB/AXOMB14154404843/PERFECTWARE BUILDING PROD/HDFC BANK/Others-pavit tile payment",
+            "credit": 0.0,
+            "debit": 11000.0,
+            "balance": 642776.17
+        },
+        {
+            "date": "20-05-2024",
+            "description": "UPI/P2A/414157276007/PACHAIYAPPAN S       /MSS  M/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 4300.0,
+            "balance": 638476.17
+        },
+        {
+            "date": "20-05-2024",
+            "description": "UPI/P2A/414184579568/MS SRI VINAYAGA TRADE/Bill n/Indian Bank",
+            "credit": 0.0,
+            "debit": 29284.0,
+            "balance": 609192.17
+        },
+        {
+            "date": "20-05-2024",
+            "description": "UPI/P2A/450797403483/GOPINATH  A          /transp/State Bank Of India",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 589192.17
+        },
+        {
+            "date": "21-05-2024",
+            "description": "UPI/P2A/450898127702/AGARA ENT/City Unio/UPI/",
+            "credit": 3418.0,
+            "debit": 0.0,
+            "balance": 592610.17
+        },
+        {
+            "date": "21-05-2024",
+            "description": "NEFT/N142240210408024/HUSSAIN SANITARY STO/KARUR VYSYA BANK/",
+            "credit": 3800.0,
+            "debit": 0.0,
+            "balance": 596410.17
+        },
+        {
+            "date": "21-05-2024",
+            "description": "UPI/P2A/450802065434/VIGNESH V            /UPI/RBL",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 595410.17
+        },
+        {
+            "date": "22-05-2024",
+            "description": "NEFT/MB/AXOMB14375512685/Muneeswaa Marketing/UNION BANK OF INDIA/Others",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 545410.17
+        },
+        {
+            "date": "23-05-2024",
+            "description": "NEFT/MB/AXOMB14484267339/Sri Amman and Co/CANARA BANK/Others-pavit tile payment",
+            "credit": 0.0,
+            "debit": 150000.0,
+            "balance": 395410.17
+        },
+        {
+            "date": "23-05-2024",
+            "description": "NEFT/MB/AXOMB14484292598/Shree Sainath Road Carrie/KARUR VYSYA BANK/Others-transport charges",
+            "credit": 0.0,
+            "debit": 150000.0,
+            "balance": 245410.17
+        },
+        {
+            "date": "25-05-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 245392.17
+        },
+        {
+            "date": "25-05-2024",
+            "description": "ATM withdrawal Chrgs",
+            "credit": 0.0,
+            "debit": 20.0,
+            "balance": 245372.17
+        },
+        {
+            "date": "25-05-2024",
+            "description": "GST @18% on ATM withdrawal Chr",
+            "credit": 0.0,
+            "debit": 3.6,
+            "balance": 245368.57
+        },
+        {
+            "date": "25-05-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 245268.57
+        },
+        {
+            "date": "27-05-2024",
+            "description": "RTGS/HDFCR52024052760638819/CHOURASIA INFRATECH PV/HDFC BANK//FAST/FAST",
+            "credit": 350000.0,
+            "debit": 0.0,
+            "balance": 595268.57
+        },
+        {
+            "date": "27-05-2024",
+            "description": "NEFT/N148243057803367/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 147900.0,
+            "debit": 0.0,
+            "balance": 743168.57
+        },
+        {
+            "date": "28-05-2024",
+            "description": "UPI/P2A/414908286991/ANS INTER/TJSB Saha/Payment/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 793168.57
+        },
+        {
+            "date": "29-05-2024",
+            "description": "UPI/P2M/415071300492/Google India Service /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 667.9,
+            "balance": 792500.67
+        },
+        {
+            "date": "29-05-2024",
+            "description": "UPI/P2M/451626201513/Google India Service /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 150.9,
+            "balance": 792349.77
+        },
+        {
+            "date": "29-05-2024",
+            "description": "TRF/ETICA DEVELOPERS PRIVATE LIMITED/YOURSELF",
+            "credit": 44870.0,
+            "debit": 0.0,
+            "balance": 837219.77
+        },
+        {
+            "date": "29-05-2024",
+            "description": "UPI/P2A/415056344542/SATHISH KUMAR N      /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 1980.0,
+            "balance": 835239.77
+        },
+        {
+            "date": "30-05-2024",
+            "description": "UPI/P2A/451761761986/Mr VEERABHADRA RAO  B/UPI/City Union Bank",
+            "credit": 0.0,
+            "debit": 1600.0,
+            "balance": 833639.77
+        },
+        {
+            "date": "30-05-2024",
+            "description": "UPI/P2A/451742190156/MS SRI VINAYAGA TRADE/UPI/Indian Bank",
+            "credit": 0.0,
+            "debit": 6796.0,
+            "balance": 826843.77
+        },
+        {
+            "date": "31-05-2024",
+            "description": "UPI/P2A/451887109609/KIRIT D LAKHANIJAYASH/UPI/Svc co-operative ban",
+            "credit": 0.0,
+            "debit": 2800.0,
+            "balance": 824043.77
+        },
+        {
+            "date": "31-05-2024",
+            "description": "NEFT/MB/AXOMB15257189845/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others",
+            "credit": 0.0,
+            "debit": 436749.0,
+            "balance": 387294.77
+        },
+        {
+            "date": "01-06-2024",
+            "description": "AUR008206053846_EMI_01-06-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 376824.77
+        },
+        {
+            "date": "01-06-2024",
+            "description": "UPI/P2A/451938676808/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 5230.0,
+            "balance": 371594.77
+        },
+        {
+            "date": "02-06-2024",
+            "description": "UPI/P2A/415448821386/LILLY S              /UPI/UCO Bank",
+            "credit": 0.0,
+            "debit": 7000.0,
+            "balance": 364594.77
+        },
+        {
+            "date": "02-06-2024",
+            "description": "UPI/P2A/415490319375/THARANI D            /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 1500.0,
+            "balance": 363094.77
+        },
+        {
+            "date": "02-06-2024",
+            "description": "UPI/P2A/415427195799/THARANI D/ICICI Ban/UPI/",
+            "credit": 1500.0,
+            "debit": 0.0,
+            "balance": 364594.77
+        },
+        {
+            "date": "02-06-2024",
+            "description": "UPI/P2M/415474425225/VINCENT KIRUBAKARAN  /UPI/Yes Bank Ltd",
+            "credit": 0.0,
+            "debit": 660.0,
+            "balance": 363934.77
+        },
+        {
+            "date": "03-06-2024",
+            "description": "IMPS/P2A/415509341840/VUTTISRI/Remitter/ToDevire/917981 4418727139000",
+            "credit": 90000.0,
+            "debit": 0.0,
+            "balance": 453934.77
+        },
+        {
+            "date": "03-06-2024",
+            "description": "UPI/P2A/452182984829/MANOJ NAGARAJ        /UPI/Bank of India",
+            "credit": 0.0,
+            "debit": 1250.0,
+            "balance": 452684.77
+        },
+        {
+            "date": "04-06-2024",
+            "description": "UPI/P2A/452211909131/Mr G SEKAR           /UPI/Indian Bank",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 451684.77
+        },
+        {
+            "date": "04-06-2024",
+            "description": "INB/NEFT/AXOIR15695155175/Shree Sainath Road Ca/KARUR VYSYA BANK/LR 3565 3875 3876",
+            "credit": 0.0,
+            "debit": 91603.0,
+            "balance": 360081.77
+        },
+        {
+            "date": "04-06-2024",
+            "description": "INB/NEFT/AXOIR15695207779/Sri Amman and Co/CANARA BANK/bills 2008 2024 2037",
+            "credit": 0.0,
+            "debit": 107827.0,
+            "balance": 252254.77
+        },
+        {
+            "date": "04-06-2024",
+            "description": "NEFT/IOBAN24156328022/VIBHA STRUCTURE PRIVATE LIMI/INDIAN OVERSEAS BANK/",
+            "credit": 186360.0,
+            "debit": 0.0,
+            "balance": 438614.77
+        },
+        {
+            "date": "04-06-2024",
+            "description": "IMPS/P2A/415619307787/VUTTISRI/Remitter/ToDevire/917981 4418727139000",
+            "credit": 23040.0,
+            "debit": 0.0,
+            "balance": 461654.77
+        },
+        {
+            "date": "04-06-2024",
+            "description": "UPI/P2A/452278641471/GOPINATH  A          /Cochin/State Bank Of India",
+            "credit": 0.0,
+            "debit": 60000.0,
+            "balance": 401654.77
+        },
+        {
+            "date": "05-06-2024",
+            "description": "BPR008207920507_EMI_05-06-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 366001.77
+        },
+        {
+            "date": "05-06-2024",
+            "description": "UPI/P2A/415715994942/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 3000.0,
+            "balance": 363001.77
+        },
+        {
+            "date": "08-06-2024",
+            "description": "UPI/P2A/416032727099/LOKNATH  S K         /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 353001.77
+        },
+        {
+            "date": "09-06-2024",
+            "description": "UPI/P2A/416140890654/MUNISAMI    K        /Tiruva/Canara Bank",
+            "credit": 0.0,
+            "debit": 26000.0,
+            "balance": 327001.77
+        },
+        {
+            "date": "09-06-2024",
+            "description": "UPI/P2A/452791896900/GOPINATH  A          /Anbu T/State Bank Of India",
+            "credit": 0.0,
+            "debit": 60000.0,
+            "balance": 267001.77
+        },
+        {
+            "date": "10-06-2024",
+            "description": "UPI/P2A/452870662912/GOPINATH  A          /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 35000.0,
+            "balance": 232001.77
+        },
+        {
+            "date": "12-06-2024",
+            "description": "NEFT/IOBAN24164652218/CREATORS ENGINEERS AND INTER/INDIAN OVERSEAS BANK/REF/////////",
+            "credit": 17457.0,
+            "debit": 0.0,
+            "balance": 249458.77
+        },
+        {
+            "date": "12-06-2024",
+            "description": "INB/NEFT/AXOIR16469766986/Sri Sai Krishna Ceram/INDIAN BANK/bill 543",
+            "credit": 0.0,
+            "debit": 65343.0,
+            "balance": 184115.77
+        },
+        {
+            "date": "13-06-2024",
+            "description": "UPI/P2A/453161277126/THARANI D            /For to/ICICI Bank",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 182115.77
+        },
+        {
+            "date": "13-06-2024",
+            "description": "UPI/P2A/416505104943/PACHAIYAPPAN S       /Ayyapa/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 177115.77
+        },
+        {
+            "date": "13-06-2024",
+            "description": "IMPS/P2A/416521374294/MANGALIS/Remitter/Greentre/919502 3283317139000",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 227115.77
+        },
+        {
+            "date": "15-06-2024",
+            "description": "CLG/000913/140624/Tamilnadu  /",
+            "credit": 69554.0,
+            "debit": 0.0,
+            "balance": 296669.77
+        },
+        {
+            "date": "15-06-2024",
+            "description": "NEFT/BARBD24167568221/BLUELEAF PROJECTS PRIVATE LI/BANK OF BARODA//",
+            "credit": 150000.0,
+            "debit": 0.0,
+            "balance": 446669.77
+        },
+        {
+            "date": "17-06-2024",
+            "description": "UPI/P2A/453504375450/SRI AKSHARA TILE WORL/bill 1/Tamilnad Mercantile",
+            "credit": 0.0,
+            "debit": 60080.0,
+            "balance": 386589.77
+        },
+        {
+            "date": "17-06-2024",
+            "description": "INB/NEFT/AXOIR16916309537/Sri Akshara Tile worl/TAMILNAD MERCANTILE /bill 1072",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 336589.77
+        },
+        {
+            "date": "18-06-2024",
+            "description": "IFT/CHQ722775/008010200021906/ARCHINOVA/SDMC:0618 M/GP20240618MBSL1200000200/",
+            "credit": 525136.0,
+            "debit": 0.0,
+            "balance": 861725.77
+        },
+        {
+            "date": "18-06-2024",
+            "description": "NEFT/CIUBH24170052102/BandbDevelopersAndBuildersPv/CIT Y UNION BANK LIMI//ATTN/SupplierPay",
+            "credit": 103602.0,
+            "debit": 0.0,
+            "balance": 965327.77
+        },
+        {
+            "date": "19-06-2024",
+            "description": "NEFT/MB/AXOMB17134579600/Sri Akshara Tile world/TAMILNAD MERCANTILE /Others",
+            "credit": 0.0,
+            "debit": 29946.0,
+            "balance": 935381.77
+        },
+        {
+            "date": "19-06-2024",
+            "description": "NEFT/N171243102924812/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW CR RTGS HUB 20-06-2024 20-06-2024 IMPS/P2A/417210969853//ALLAHABA/tactile/91944492371390 19000 CR THIRUVOTTRIYUR,CHENN AI [TN] 20-06-2024 20-06-2024 INB/329372038/GST TAX PAYMENT/may gst tax DR THIRUVOTTRIYUR,CHENN AI [TN] 20-06-2024 20-06-2024 INB/NEFT/AXOIR17245595017/Pavit Ceramics Pvt Lt/UNION BANK OF INDIA/bill 4044 4050 0001",
+            "credit": 0.0,
+            "debit": 398985.0,
+            "balance": 735314.77
+        },
+        {
+            "date": "20-06-2024",
+            "description": "INB/NEFT/AXOIR17245633533/Shree Sainath Road Ca/KARUR VYSYA BANK/LR 5367",
+            "credit": 0.0,
+            "debit": 74250.0,
+            "balance": 661064.77
+        },
+        {
+            "date": "21-06-2024",
+            "description": "UPI/P2M/417362479404/Google India Digital /UPI/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 150.9,
+            "balance": 660913.87
+        },
+        {
+            "date": "21-06-2024",
+            "description": "NEFT/N173243106426876/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 138160.0,
+            "debit": 0.0,
+            "balance": 799073.87
+        },
+        {
+            "date": "21-06-2024",
+            "description": "NEFT/CIUBH24173043858/SARASWATHI ENGINEERING CONST/CITY UNION BANK LIMI//ATTN///AAI",
+            "credit": 18400.0,
+            "debit": 0.0,
+            "balance": 817473.87
+        },
+        {
+            "date": "22-06-2024",
+            "description": "UPI/P2A/454097930111/MUNISAMI    K        /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 20500.0,
+            "balance": 796973.87
+        },
+        {
+            "date": "24-06-2024",
+            "description": "UPI/P2A/454288223948/SRI AKSHARA ENTERPRI /UPI/Tamilnad Mercantile",
+            "credit": 0.0,
+            "debit": 1500.0,
+            "balance": 795473.87
+        },
+        {
+            "date": "25-06-2024",
+            "description": "INB/NEFT/AXOIR17795576400/Osiyano Tile/HDFC BANK/Pavit material Advance paymne",
+            "credit": 0.0,
+            "debit": 100000.0,
+            "balance": 695473.87
+        },
+        {
+            "date": "25-06-2024",
+            "description": "NEFT/MB/AXOMB17796455680/Sri Akshara Tile world/TAMILNAD MERCANTILE /Others-Bill no 1083",
+            "credit": 0.0,
+            "debit": 24226.0,
+            "balance": 671247.87
+        },
+        {
+            "date": "25-06-2024",
+            "description": "INB/NEFT/AXOIR17796698481/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bill 834 1219 1555",
+            "credit": 0.0,
+            "debit": 338272.0,
+            "balance": 332975.87
+        },
+        {
+            "date": "25-06-2024",
+            "description": "ATM withdrawal Chrgs",
+            "credit": 0.0,
+            "debit": 60.0,
+            "balance": 332915.87
+        },
+        {
+            "date": "25-06-2024",
+            "description": "GST @18% on ATM withdrawal Chr",
+            "credit": 0.0,
+            "debit": 10.8,
+            "balance": 332905.07
+        },
+        {
+            "date": "25-06-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 332805.07
+        },
+        {
+            "date": "25-06-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 332787.07
+        },
+        {
+            "date": "29-06-2024",
+            "description": "IMPS/P2A/418120680220/SAIVISHN/IDFCBank/Advancep/9199 417525359751001",
+            "credit": 20000.0,
+            "debit": 0.0,
+            "balance": 352787.07
+        },
+        {
+            "date": "01-07-2024",
+            "description": "AUR008206053846_EMI_01-07-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 342317.07
+        },
+        {
+            "date": "01-07-2024",
+            "description": "NEFT/N183243122512080/MUKIL CONSTRUCTIONS/HDFC BANK/Pavit tiles DUV",
+            "credit": 133798.0,
+            "debit": 0.0,
+            "balance": 476115.07
+        },
+        {
+            "date": "03-07-2024",
+            "description": "NEFT/MB/AXOMB18576449459/Sri Akshara Tile world/TAMILNAD MERCANTILE /Others-Pavit Tile advance",
+            "credit": 0.0,
+            "debit": 150000.0,
+            "balance": 326115.07
+        },
+        {
+            "date": "03-07-2024",
+            "description": "UPI/P2A/455167262260/MOHAN S              /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 325115.07
+        },
+        {
+            "date": "05-07-2024",
+            "description": "BPR008207920507_EMI_05-07-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 289462.07
+        },
+        {
+            "date": "05-07-2024",
+            "description": "NEFT/P187240333632038/SRI AMMAN AND CO/CANARA BANK/",
+            "credit": 17830.0,
+            "debit": 0.0,
+            "balance": 307292.07
+        },
+        {
+            "date": "06-07-2024",
+            "description": "UPI/P2A/455431613713/MUNISAMI    K        /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 14000.0,
+            "balance": 293292.07
+        },
+        {
+            "date": "07-07-2024",
+            "description": "UPI/P2A/418999109207/LILLY S              /10th/UCO Bank",
+            "credit": 0.0,
+            "debit": 7000.0,
+            "balance": 286292.07
+        },
+        {
+            "date": "08-07-2024",
+            "description": "UPI/P2A/419048460955/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 12430.0,
+            "balance": 273862.07
+        },
+        {
+            "date": "08-07-2024",
+            "description": "UPI/P2A/419029361997/THARANI D            /2nd mo/ICICI Bank",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 271862.07
+        },
+        {
+            "date": "09-07-2024",
+            "description": "NEFT/36897482001DC/A V ENTERPRISES/ICICI BANK LIMITED/MuneeswaaMarketing",
+            "credit": 163146.0,
+            "debit": 0.0,
+            "balance": 435008.07
+        },
+        {
+            "date": "10-07-2024",
+            "description": "CLG/018262/090724/Union Bank /",
+            "credit": 95638.0,
+            "debit": 0.0,
+            "balance": 530646.07
+        },
+        {
+            "date": "10-07-2024",
+            "description": "CLG/040774/090724/State Bank /",
+            "credit": 110613.0,
+            "debit": 0.0,
+            "balance": 641259.07
+        },
+        {
+            "date": "11-07-2024",
+            "description": "UPI/P2A/419335919237/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 631259.07
+        },
+        {
+            "date": "13-07-2024",
+            "description": "UPI/P2A/419507301405/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 6000.0,
+            "balance": 625259.07
+        },
+        {
+            "date": "13-07-2024",
+            "description": "UPI/P2A/419571612136/T  SHAIK USMAN       /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 5500.0,
+            "balance": 619759.07
+        },
+        {
+            "date": "13-07-2024",
+            "description": "UPI/P2A/456136521872/MURUGAN S            /VIT Tr/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 609759.07
+        },
+        {
+            "date": "14-07-2024",
+            "description": "UPI/P2A/419661749572/MURUGAN S            /VIT/ICICI Bank",
+            "credit": 0.0,
+            "debit": 6000.0,
+            "balance": 603759.07
+        },
+        {
+            "date": "15-07-2024",
+            "description": "UPI/P2A/419775318011/SATHISH KUMAR N      /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 2390.0,
+            "balance": 601369.07
+        },
+        {
+            "date": "16-07-2024",
+            "description": "INB/NEFT/AXOIR19814871680/TILES STUDIO/CANARA BANK/Pavi bill no 122",
+            "credit": 0.0,
+            "debit": 65984.0,
+            "balance": 535385.07
+        },
+        {
+            "date": "17-07-2024",
+            "description": "UPI/P2M/456518006623/G R THANGAMALIGAI JEW/UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 525385.07
+        },
+        {
+            "date": "17-07-2024",
+            "description": "UPI/P2M/419924107510/G R THANGAMALIGAI JEW/UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 66340.0,
+            "balance": 459045.07
+        },
+        {
+            "date": "19-07-2024",
+            "description": "INB/329533223/GST TAX PAYMENT/jun tax amount",
+            "credit": 0.0,
+            "debit": 124932.0,
+            "balance": 334113.07
+        },
+        {
+            "date": "19-07-2024",
+            "description": "INB/NEFT/AXOIR20146372372/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bills 3528 3606 4283",
+            "credit": 0.0,
+            "debit": 233388.0,
+            "balance": 100725.07
+        },
+        {
+            "date": "20-07-2024",
+            "description": "UPI/P2A/420279435007/JAIKUMAR K           /UPI/Indian Overseas Bank DR THIRUVOTTRIYUR,CHENN AI [TN] 20-07-2024 20-07-2024 NEFT/37010507931DC/A V ENTERPRISES/ICICI BANK LIMITED/MuneeswaaMarketing",
+            "credit": 19609.0,
+            "debit": 0.0,
+            "balance": 118584.07
+        },
+        {
+            "date": "20-07-2024",
+            "description": "SRI VENKATACHAL/",
+            "credit": 95200.0,
+            "debit": 0.0,
+            "balance": 213784.07
+        },
+        {
+            "date": "20-07-2024",
+            "description": "IMPS/P2A/420217565544//ALLAHABA/tactile/91944492371390 19000",
+            "credit": 6556.0,
+            "debit": 0.0,
+            "balance": 220340.07
+        },
+        {
+            "date": "20-07-2024",
+            "description": "NEFT/MB/AXOMB20257485807/Sri Akshara Tile world/TAMILNAD MERCANTILE /Others",
+            "credit": 0.0,
+            "debit": 44340.0,
+            "balance": 176000.07
+        },
+        {
+            "date": "20-07-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 175982.07
+        },
+        {
+            "date": "20-07-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 175882.07
+        },
+        {
+            "date": "23-07-2024",
+            "description": "CLG/024541/220724/Indian Ban /",
+            "credit": 208900.0,
+            "debit": 0.0,
+            "balance": 384782.07
+        },
+        {
+            "date": "25-07-2024",
+            "description": "IMPS/P2A/420720811852/SRIRAMKR/STATEBAN/BillPaym/91 98843603019002000",
+            "credit": 28865.0,
+            "debit": 0.0,
+            "balance": 413647.07
+        },
+        {
+            "date": "25-07-2024",
+            "description": "NEFT/DEUTN24207794717/ELITE CONTRACTORS CHENNAI PV/DEUTSCHE BANK/",
+            "credit": 112869.0,
+            "debit": 0.0,
+            "balance": 526516.07
+        },
+        {
+            "date": "26-07-2024",
+            "description": "INB/NEFT/AXOIR20814648519/Osiyano Tile/HDFC BANK/balance bill",
+            "credit": 0.0,
+            "debit": 52021.0,
+            "balance": 474495.07
+        },
+        {
+            "date": "26-07-2024",
+            "description": "TRF/ETICA DEVELOPERS PRIVATE LIMITED/MUNEESWAA MA",
+            "credit": 2950.0,
+            "debit": 0.0,
+            "balance": 477445.07
+        },
+        {
+            "date": "26-07-2024",
+            "description": "NEFT/N208243170296317/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 133740.0,
+            "debit": 0.0,
+            "balance": 611185.07
+        },
+        {
+            "date": "27-07-2024",
+            "description": "UPI/P2A/420963329269/K V NARAY/HDFC BANK/kv naray/",
+            "credit": 14846.0,
+            "debit": 0.0,
+            "balance": 626031.07
+        },
+        {
+            "date": "27-07-2024",
+            "description": "IMPS/P2A/420916686830/SAIVISHN/IDFCBank/SaiVishn/91994 17525359751001",
+            "credit": 38418.0,
+            "debit": 0.0,
+            "balance": 664449.07
+        },
+        {
+            "date": "27-07-2024",
+            "description": "IMPS/P2A/420918114900/HOLISPHE/Remitter/ForTiles/9198450 792047139000",
+            "credit": 9266.0,
+            "debit": 0.0,
+            "balance": 673715.07
+        },
+        {
+            "date": "29-07-2024",
+            "description": "UPI/P2M/421198156284/OSWAL TRADING        /Somany/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 28500.0,
+            "balance": 645215.07
+        },
+        {
+            "date": "30-07-2024",
+            "description": "UPI/P2A/457819024361/GOPINATH  A          /auto c/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 500.0,
+            "balance": 644715.07
+        },
+        {
+            "date": "01-08-2024",
+            "description": "UPI/P2A/458027021046/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 7600.0,
+            "balance": 637115.07
+        },
+        {
+            "date": "01-08-2024",
+            "description": "UPI/P2A/421491921264/LILLY S              /11th m/UCO Bank",
+            "credit": 0.0,
+            "debit": 7000.0,
+            "balance": 630115.07
+        },
+        {
+            "date": "01-08-2024",
+            "description": "AUR008206053846_EMI_01-08-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 619645.07
+        },
+        {
+            "date": "01-08-2024",
+            "description": "NEFT/IBKL240801902813/CITADEL INTERIORS PVT LTD/IDBI BANK/NEFT",
+            "credit": 40121.0,
+            "debit": 0.0,
+            "balance": 659766.07
+        },
+        {
+            "date": "02-08-2024",
+            "description": "NEFT/MB/AXOMB21589400759/Sri Akshara Tile world/TAMILNAD MERCANTILE /Others-Pavit Tiles",
+            "credit": 0.0,
+            "debit": 25220.0,
+            "balance": 634546.07
+        },
+        {
+            "date": "03-08-2024",
+            "description": "INB/NEFT/AXOIR21698789690/Pavit Ceramics Pvt Lt/UNION BANK OF INDIA/bills 258 306",
+            "credit": 0.0,
+            "debit": 441197.0,
+            "balance": 193349.07
+        },
+        {
+            "date": "03-08-2024",
+            "description": "UPI/P2A/458296371260/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 183349.07
+        },
+        {
+            "date": "03-08-2024",
+            "description": "UPI/P2A/458260777115/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 4860.0,
+            "balance": 178489.07
+        },
+        {
+            "date": "03-08-2024",
+            "description": "NEFT/MB/AXOMB21699954379/Vardaman Gift N Novelty/ICICI BANK LIMITED/Others",
+            "credit": 0.0,
+            "debit": 3920.0,
+            "balance": 174569.07
+        },
+        {
+            "date": "03-08-2024",
+            "description": "UPI/P2A/421604113223/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 10500.0,
+            "balance": 164069.07
+        },
+        {
+            "date": "05-08-2024",
+            "description": "BPR008207920507_EMI_05-08-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 128416.07
+        },
+        {
+            "date": "05-08-2024",
+            "description": "NEFT/BARBD24218982468/BLUELEAF PROJECTS PRIVATE LI/BANK OF BARODA//",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 228416.07
+        },
+        {
+            "date": "07-08-2024",
+            "description": "UPI/P2A/422057818183/ARUN  S/Canara Ba/UPI/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 278416.07
+        },
+        {
+            "date": "09-08-2024",
+            "description": "UPI/P2A/458824900916/THARANI D            /tour f/ICICI Bank",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 276416.07
+        },
+        {
+            "date": "10-08-2024",
+            "description": "NEFT/MB/AXOMB22374849181/Srichandan Tiles and Sani/BANK OF BARODA/Others-pavit advance payment",
+            "credit": 0.0,
+            "debit": 100528.0,
+            "balance": 175888.07
+        },
+        {
+            "date": "10-08-2024",
+            "description": "NEFT/P223240342532952/IG3 INFRA LIMITED/CANARA BANK/SL/335800LT29JTJ9ZCV334/",
+            "credit": 31838.0,
+            "debit": 0.0,
+            "balance": 207726.07
+        },
+        {
+            "date": "12-08-2024",
+            "description": "NEFT/BARBD24225572372/BLUELEAF PROJECTS PRIVATE LI/BANK OF BARODA//",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 257726.07
+        },
+        {
+            "date": "12-08-2024",
+            "description": "NEFT/CMS2252441552954/OCEAN LIFESPACES INDIA PRIVA/KOTAK MAHINDRA BANK /PaymentNEFT OLIPL CMS225244",
+            "credit": 16292.0,
+            "debit": 0.0,
+            "balance": 274018.07
+        },
+        {
+            "date": "13-08-2024",
+            "description": "IMPS/P2A/422610056569/ARUNS/CANARABA/IMPS/9197383 853549015658",
+            "credit": 10.0,
+            "debit": 0.0,
+            "balance": 274028.07
+        },
+        {
+            "date": "13-08-2024",
+            "description": "IMPS/P2A/422610056936/ARUNS/CANARABA/IMPS/9197383 853549015658",
+            "credit": 86400.0,
+            "debit": 0.0,
+            "balance": 360428.07
+        },
+        {
+            "date": "13-08-2024",
+            "description": "UPI/P2A/459260317477/LALIT MOHAN PATRA    /UPI/Punjab National Bank",
+            "credit": 0.0,
+            "debit": 3500.0,
+            "balance": 356928.07
+        },
+        {
+            "date": "14-08-2024",
+            "description": "NEFT/N227243209045124/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 29859.0,
+            "debit": 0.0,
+            "balance": 386787.07
+        },
+        {
+            "date": "15-08-2024",
+            "description": "UPI/P2A/459445537284/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 3500.0,
+            "balance": 383287.07
+        },
+        {
+            "date": "15-08-2024",
+            "description": "IMPS/P2A/422819509214//ALLAHABA/tactile/91944492371390 19000",
+            "credit": 13020.0,
+            "debit": 0.0,
+            "balance": 396307.07
+        },
+        {
+            "date": "16-08-2024",
+            "description": "INB/NEFT/AXOIR22940692225/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bill no 4140",
+            "credit": 0.0,
+            "debit": 201810.0,
+            "balance": 194497.07
+        },
+        {
+            "date": "16-08-2024",
+            "description": "INB/NEFT/AXOIR22940738557/Shree Sainath Road Ca/KARUR VYSYA BANK/LR no 5393 DR THIRUVOTTRIYUR,CHENN AI [TN] 16-08-2024 16-08-2024 UPI/P2A/459526627452/ATUL KOCH/Axis Bank/UPI/",
+            "credit": 38363.0,
+            "debit": 0.0,
+            "balance": 128415.07
+        },
+        {
+            "date": "16-08-2024",
+            "description": "SRI VENKATACHAL/",
+            "credit": 33270.0,
+            "debit": 0.0,
+            "balance": 161685.07
+        },
+        {
+            "date": "17-08-2024",
+            "description": "SRI VENKATACHAL/",
+            "credit": 67950.0,
+            "debit": 0.0,
+            "balance": 229635.07
+        },
+        {
+            "date": "17-08-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 229617.07
+        },
+        {
+            "date": "17-08-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 229517.07
+        },
+        {
+            "date": "19-08-2024",
+            "description": "NEFT/BARBD24232835969/BLUELEAF PROJECTS PRIVATE LI/BANK OF BARODA//",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 279517.07
+        },
+        {
+            "date": "19-08-2024",
+            "description": "UPI/P2A/459890121404/INDRA CON/Axis Bank/Cool roo/",
+            "credit": 40000.0,
+            "debit": 0.0,
+            "balance": 319517.07
+        },
+        {
+            "date": "20-08-2024",
+            "description": "UPI/P2M/459993487360/Google India Digital /UPI/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 800.9,
+            "balance": 318716.17
+        },
+        {
+            "date": "20-08-2024",
+            "description": "UPI/P2A/423334783324/INDRA CON/Axis Bank/UPI/",
+            "credit": 63050.0,
+            "debit": 0.0,
+            "balance": 381766.17
+        },
+        {
+            "date": "21-08-2024",
+            "description": "UPI/P2A/423468892545/RADHA KRI/HDFC BANK/UPI/",
+            "credit": 9266.0,
+            "debit": 0.0,
+            "balance": 391032.17
+        },
+        {
+            "date": "21-08-2024",
+            "description": "UPI/P2A/460052759799/PACHAIYAPPAN S       /Transp/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 15000.0,
+            "balance": 376032.17
+        },
+        {
+            "date": "22-08-2024",
+            "description": "NEFT/MB/AXOMB23502966567/Arihant Sales Corporation/BANK OF CEYLON/Others",
+            "credit": 0.0,
+            "debit": 7630.0,
+            "balance": 368402.17
+        },
+        {
+            "date": "22-08-2024",
+            "description": "UPI/P2A/423523108599/JAIKUMAR K           /GST Ta/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 34673.0,
+            "balance": 333729.17
+        },
+        {
+            "date": "22-08-2024",
+            "description": "NEFT/000392570991/CEEBROS HOTELS PRIVATE LIMIT/RBL BANK LIMITED/SL//URGENT//BL//URGENT//BL//U",
+            "credit": 207126.0,
+            "debit": 0.0,
+            "balance": 540855.17
+        },
+        {
+            "date": "22-08-2024",
+            "description": "NEFT/MB/AXOMB23504540177/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others-bill",
+            "credit": 0.0,
+            "debit": 432234.0,
+            "balance": 108621.17
+        },
+        {
+            "date": "24-08-2024",
+            "description": "UPI/P2M/460391102848/GRT Jewellers India P/mem no/ICICI Bank DR THIRUVOTTRIYUR,CHENN AI [TN] 25-08-2024 25-08-2024 NEFT/N238243224946827/RATHNAVELU RAMAN/HDFC BANK/Pavit payment",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 148621.17
+        },
+        {
+            "date": "25-08-2024",
+            "description": "NEFT/N238243224964318/HEMA RATHNAVELU/HDFC BANK/Pavit tiles paymen",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 198621.17
+        },
+        {
+            "date": "27-08-2024",
+            "description": "NEFT/N240243227305218/RATHNAVELU RAMAN/HDFC BANK/Payment for tiles",
+            "credit": 12303.0,
+            "debit": 0.0,
+            "balance": 210924.17
+        },
+        {
+            "date": "27-08-2024",
+            "description": "NEFT/N240243227350155/HEMA RATHNAVELU/HDFC BANK/Pavit tiles paymen",
+            "credit": 196441.0,
+            "debit": 0.0,
+            "balance": 407365.17
+        },
+        {
+            "date": "27-08-2024",
+            "description": "UPI/P2A/460655621557/PACHAIYAPPAN S       /transp/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 6200.0,
+            "balance": 401165.17
+        },
+        {
+            "date": "27-08-2024",
+            "description": "UPI/P2A/424009334511/MUNISAMI    K        /transp/Canara Bank",
+            "credit": 0.0,
+            "debit": 6900.0,
+            "balance": 394265.17
+        },
+        {
+            "date": "28-08-2024",
+            "description": "NEFT/IOBAN24241081160/CREATORS ENGINEERS AND INTER/INDIAN OVERSEAS BANK/REF/////////",
+            "credit": 150000.0,
+            "debit": 0.0,
+            "balance": 544265.17
+        },
+        {
+            "date": "29-08-2024",
+            "description": "NEFT/N242243232386860/NATURAL EXPORTS/HDFC BANK/408298554422",
+            "credit": 20483.0,
+            "debit": 0.0,
+            "balance": 564748.17
+        },
+        {
+            "date": "30-08-2024",
+            "description": "NEFT/IBKL240830082641/CITADEL INTERIORS PVT LTD/IDBI BANK/NEFT",
+            "credit": 40113.0,
+            "debit": 0.0,
+            "balance": 604861.17
+        },
+        {
+            "date": "30-08-2024",
+            "description": "UPI/P2A/424316100265/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 12440.0,
+            "balance": 592421.17
+        },
+        {
+            "date": "31-08-2024",
+            "description": "INB/NEFT/AXOIR24496029012/Osiyano Tile/HDFC BANK/bills 646 690 769",
+            "credit": 0.0,
+            "debit": 139931.0,
+            "balance": 452490.17
+        },
+        {
+            "date": "31-08-2024",
+            "description": "RTGS/HDFCR52024083188882813/TEEMAGEBUILDERSPVT LTD/HDFC BANK/",
+            "credit": 248204.0,
+            "debit": 0.0,
+            "balance": 700694.17
+        },
+        {
+            "date": "01-09-2024",
+            "description": "AUR008206053846_EMI_01-09-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 690224.17
+        },
+        {
+            "date": "01-09-2024",
+            "description": "NEFT/MB/AXOMB24506649798/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/",
+            "credit": 0.0,
+            "debit": 423521.0,
+            "balance": 266703.17
+        },
+        {
+            "date": "01-09-2024",
+            "description": "UPI/P2A/424578271534/THARANI D            /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 3000.0,
+            "balance": 263703.17
+        },
+        {
+            "date": "01-09-2024",
+            "description": "UPI/P2A/424559383056/LILLY S              /12th f/UCO Bank",
+            "credit": 0.0,
+            "debit": 7000.0,
+            "balance": 256703.17
+        },
+        {
+            "date": "02-09-2024",
+            "description": "UPI/P2A/424673263343/SATHISH KUMAR N      /rice/Canara Bank",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 254703.17
+        },
+        {
+            "date": "02-09-2024",
+            "description": "NEFT/N24246040012/CEEBROS HOTELS PVT LTD/RBL BANK LIMITED/DISB OF CEEBROS HOTELS PVT LT",
+            "credit": 423890.0,
+            "debit": 0.0,
+            "balance": 678593.17
+        },
+        {
+            "date": "03-09-2024",
+            "description": "CLG/158504/020924/Idbi Bank  /",
+            "credit": 30000.0,
+            "debit": 0.0,
+            "balance": 708593.17
+        },
+        {
+            "date": "03-09-2024",
+            "description": "NEFT/MB/AXOMB24727393126/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others",
+            "credit": 0.0,
+            "debit": 300000.0,
+            "balance": 408593.17
+        },
+        {
+            "date": "04-09-2024",
+            "description": "UPI/P2A/461420980932/DUMMY NAME           /UPI/Karnataka Bank",
+            "credit": 0.0,
+            "debit": 15000.0,
+            "balance": 393593.17
+        },
+        {
+            "date": "05-09-2024",
+            "description": "BPR008207920507_EMI_05-09-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 357940.17
+        },
+        {
+            "date": "05-09-2024",
+            "description": "UPI/P2A/461575816540/PACHAIYAPPAN S       /advanc/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 355940.17
+        },
+        {
+            "date": "05-09-2024",
+            "description": "UPI/P2M/461504753764/KALPANA JAIN         /Paymen/Yes Bank Ltd",
+            "credit": 0.0,
+            "debit": 1730.0,
+            "balance": 354210.17
+        },
+        {
+            "date": "06-09-2024",
+            "description": "UPI/P2A/425095482059/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 8600.0,
+            "balance": 345610.17
+        },
+        {
+            "date": "06-09-2024",
+            "description": "UPI/P2A/425014912578/PACHAIYAPPAN S       /UPI/Karur Vysya Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 335610.17
+        },
+        {
+            "date": "09-09-2024",
+            "description": "NEFT/MB/AXOMB25394288311/Sri Amman and Co/CANARA BANK/Others",
+            "credit": 0.0,
+            "debit": 200000.0,
+            "balance": 135610.17
+        },
+        {
+            "date": "09-09-2024",
+            "description": "UPI/P2M/425396070953/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 125610.17
+        },
+        {
+            "date": "10-09-2024",
+            "description": "UPI/P2A/425461425736/LOKNATH S K          /tour f/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 5600.0,
+            "balance": 120010.17
+        },
+        {
+            "date": "11-09-2024",
+            "description": "UPI/P2A/425500833141/R K PRABU            /UPI/HDFC BANK LTD DR THIRUVOTTRIYUR,CHENN AI [TN] 11-09-2024 11-09-2024 NEFT/IOBAN24255474563/CREATORS ENGINEERS AND INTER/INDIAN OVERSEAS BANK/REF/////////",
+            "credit": 78948.0,
+            "debit": 0.0,
+            "balance": 171958.17
+        },
+        {
+            "date": "12-09-2024",
+            "description": "UPI/P2A/425620193584/LOKNATH  S K         /Deepik/State Bank Of India",
+            "credit": 0.0,
+            "debit": 4000.0,
+            "balance": 167958.17
+        },
+        {
+            "date": "13-09-2024",
+            "description": "NEFT/MB/AXOMB25736055952/Osiyano Tile/HDFC BANK/Others DR THIRUVOTTRIYUR,CHENN AI [TN] 14-09-2024 14-09-2024 NEFT/N258243268511390/NATURAL EXPORTS/HDFC BANK/409145829996 CR RTGS HUB 14-09-2024 14-09-2024 UPI/P2A/462457328916/A GOPINATH           /Bangal/HDFC BANK LTD DR THIRUVOTTRIYUR,CHENN AI [TN] 16-09-2024 16-09-2024 CLG/000464/130924/City Union /",
+            "credit": 133845.0,
+            "debit": 0.0,
+            "balance": 198061.17
+        },
+        {
+            "date": "16-09-2024",
+            "description": "NEFT/CBINQ24260978067/CREATIONS INFRA INDIA PVT LT/CENTRAL BANK OF INDI///ATTN/Munesswaa Marketing",
+            "credit": 96937.0,
+            "debit": 0.0,
+            "balance": 294998.17
+        },
+        {
+            "date": "18-09-2024",
+            "description": "INB/329833123/GST TAX PAYMENT/august gst tax",
+            "credit": 0.0,
+            "debit": 106734.0,
+            "balance": 188264.17
+        },
+        {
+            "date": "19-09-2024",
+            "description": "CLG/158506/180924/Idbi Bank  /Cholan Constructions",
+            "credit": 74312.0,
+            "debit": 0.0,
+            "balance": 262576.17
+        },
+        {
+            "date": "20-09-2024",
+            "description": "NEFT/N264243278823249/D AISHWARYA/HDFC BANK/",
+            "credit": 140000.0,
+            "debit": 0.0,
+            "balance": 402576.17
+        },
+        {
+            "date": "20-09-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 402558.17
+        },
+        {
+            "date": "20-09-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 402458.17
+        },
+        {
+            "date": "23-09-2024",
+            "description": "NEFT/MB/AXOMB26726871107/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others",
+            "credit": 0.0,
+            "debit": 218490.0,
+            "balance": 183968.17
+        },
+        {
+            "date": "24-09-2024",
+            "description": "NEFT/N268243283110120/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 7380.0,
+            "debit": 0.0,
+            "balance": 191348.17
+        },
+        {
+            "date": "24-09-2024",
+            "description": "NEFT/N268243283110116/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 131850.0,
+            "debit": 0.0,
+            "balance": 323198.17
+        },
+        {
+            "date": "24-09-2024",
+            "description": "NEFT/N268243283110118/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 22475.0,
+            "debit": 0.0,
+            "balance": 345673.17
+        },
+        {
+            "date": "24-09-2024",
+            "description": "NEFT/IDIBH24268252148/INCI CONSTRUCTION AND INTERI/INDIAN BANK/",
+            "credit": 122720.0,
+            "debit": 0.0,
+            "balance": 468393.17
+        },
+        {
+            "date": "25-09-2024",
+            "description": "CLG/350610/240924/Bank Of Ce /",
+            "credit": 50415.0,
+            "debit": 0.0,
+            "balance": 518808.17
+        },
+        {
+            "date": "26-09-2024",
+            "description": "UPI/P2M/427053987812/Google India Digital /UPI/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 176.9,
+            "balance": 518631.27
+        },
+        {
+            "date": "27-09-2024",
+            "description": "SRI VENKATACHAL/",
+            "credit": 35490.0,
+            "debit": 0.0,
+            "balance": 554121.27
+        },
+        {
+            "date": "27-09-2024",
+            "description": "UPI/P2M/463703946840/Amazon Pay           /You ar/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 449.0,
+            "balance": 553672.27
+        },
+        {
+            "date": "29-09-2024",
+            "description": "UPI/P2A/463919855527/Mr ANANDAN  AMOHANA V/UPI/City Union Bank",
+            "credit": 0.0,
+            "debit": 2510.0,
+            "balance": 551162.27
+        },
+        {
+            "date": "29-09-2024",
+            "description": "UPI/P2M/427300256904/Swiggy Limited       /UPI/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 406.0,
+            "balance": 550756.27
+        },
+        {
+            "date": "30-09-2024",
+            "description": "INB/76328245/INTERNET TAX PAYMENT/",
+            "credit": 0.0,
+            "debit": 118910.0,
+            "balance": 431846.27
+        },
+        {
+            "date": "30-09-2024",
+            "description": "NEFT/N274243295193715/SREEROSH PROPERTIES P LTD/HDFC BANK/NEFT    Inv 85 50200081678041",
+            "credit": 1807.0,
+            "debit": 0.0,
+            "balance": 433653.27
+        },
+        {
+            "date": "01-10-2024",
+            "description": "AUR008206053846_EMI_01-10-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 423183.27
+        },
+        {
+            "date": "03-10-2024",
+            "description": "UPI/P2A/427735423651/INDRA CON/Axis Bank/UPI/",
+            "credit": 4900.0,
+            "debit": 0.0,
+            "balance": 428083.27
+        },
+        {
+            "date": "03-10-2024",
+            "description": "CLG/350611/011024/Bank Of Ce /",
+            "credit": 50418.0,
+            "debit": 0.0,
+            "balance": 478501.27
+        },
+        {
+            "date": "03-10-2024",
+            "description": "UPI/P2A/464374239769/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 12740.0,
+            "balance": 465761.27
+        },
+        {
+            "date": "03-10-2024",
+            "description": "UPI/P2A/427728973757/LOKNATH  S K         /Kodaik/State Bank Of India",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 463761.27
+        },
+        {
+            "date": "04-10-2024",
+            "description": "UPI/P2A/464428198792/S CHRISTOPHER YESU RA/UPI/IDBI Bank Limited",
+            "credit": 0.0,
+            "debit": 2000.0,
+            "balance": 461761.27
+        },
+        {
+            "date": "04-10-2024",
+            "description": "UPI/P2A/464428037620/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 20000.0,
+            "balance": 441761.27
+        },
+        {
+            "date": "05-10-2024",
+            "description": "BPR008207920507_EMI_05-10-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 406108.27
+        },
+        {
+            "date": "05-10-2024",
+            "description": "INB/NEFT/AXOIR27934987129/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bill 4890 5791 5872 6740 7078 DR THIRUVOTTRIYUR,CHENN AI [TN] 07-10-2024 07-10-2024 NEFT/TJSB242810002001/ANS INTERIOR SOLUTIONS/TJSB SAHAKARI BANK L/FASTANS INTERIOR SOLUTIONSTRA",
+            "credit": 143840.0,
+            "debit": 0.0,
+            "balance": 175289.27
+        },
+        {
+            "date": "07-10-2024",
+            "description": "NEFT/MB/AXOMB28154148280/Sri Sai Krishna Ceramics/INDIAN BANK/Others DR THIRUVOTTRIYUR,CHENN AI [TN] 08-10-2024 08-10-2024 UPI/P2A/428267717868/R VIJAY K/Indian Ov/tiles to/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 139074.27
+        },
+        {
+            "date": "08-10-2024",
+            "description": "RTGS/HDFCR52024100850054689/CHOURASIA INFRATECH PV/HDFC BANK//FAST/FAST",
+            "credit": 200000.0,
+            "debit": 0.0,
+            "balance": 339074.27
+        },
+        {
+            "date": "08-10-2024",
+            "description": "UPI/P2A/464840145102/RAPARTHI /THE VISAK/tiles  t/",
+            "credit": 30600.0,
+            "debit": 0.0,
+            "balance": 369674.27
+        },
+        {
+            "date": "08-10-2024",
+            "description": "NEFT/N282243318169266/D AISHWARYA/HDFC BANK/",
+            "credit": 70000.0,
+            "debit": 0.0,
+            "balance": 439674.27
+        },
+        {
+            "date": "08-10-2024",
+            "description": "UPI/P2A/428249213658/AKILLANDEASWARI      /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 4000.0,
+            "balance": 435674.27
+        },
+        {
+            "date": "09-10-2024",
+            "description": "UPI/P2A/464943430981/JAIKUMAR K           /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 33400.0,
+            "balance": 402274.27
+        },
+        {
+            "date": "09-10-2024",
+            "description": "INB/NEFT/AXOIR28376310514/Sri Amman and Co/CANARA BANK/bill 2236 2179 2160 2153",
+            "credit": 0.0,
+            "debit": 58507.0,
+            "balance": 343767.27
+        },
+        {
+            "date": "09-10-2024",
+            "description": "INB/NEFT/AXOIR28376332394/Shree Sainath Road Ca/KARUR VYSYA BANK/LR 5402 5406 DR THIRUVOTTRIYUR,CHENN AI [TN] 09-10-2024 09-10-2024 UPI/P2A/428313836343/RAPARTHI /THE VISAK/transpor/",
+            "credit": 4000.0,
+            "debit": 0.0,
+            "balance": 102967.27
+        },
+        {
+            "date": "09-10-2024",
+            "description": "UPI/P2A/428321567798/AKILLANDEASWARI /Transp/Canara Bank DR THIRUVOTTRIYUR,CHENN AI [TN] 10-10-2024 10-10-2024 UPI/P2A/465040911235/S ARUN               /UPI/Axis Bank Ltd. DR THIRUVOTTRIYUR,CHENN AI [TN] 10-10-2024 10-10-2024 NEFT/CBINQ24284238088/CREATIONS INFRA INDIA PVT LT/CENTRAL BANK OF INDI///ATTN/Munesswaa Marketing",
+            "credit": 80000.0,
+            "debit": 0.0,
+            "balance": 172107.27
+        },
+        {
+            "date": "11-10-2024",
+            "description": "IMPS/P2A/428515544113/SYEDYUSU/TAMILNAD/P2AMOB/9 199419364449060000",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 272107.27
+        },
+        {
+            "date": "14-10-2024",
+            "description": "UPI/P2M/428874717734/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 262107.27
+        },
+        {
+            "date": "14-10-2024",
+            "description": "UPI/P2A/465494624943/Mr MADAN /City Unio/pavit ti/",
+            "credit": 2551.0,
+            "debit": 0.0,
+            "balance": 264658.27
+        },
+        {
+            "date": "15-10-2024",
+            "description": "UPI/P2A/428967777278/GOPINATH  A          /Hydera/State Bank Of India",
+            "credit": 0.0,
+            "debit": 43000.0,
+            "balance": 221658.27
+        },
+        {
+            "date": "15-10-2024",
+            "description": "UPI/P2A/465533972871/GOPINATH  A          /unload/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 8000.0,
+            "balance": 213658.27
+        },
+        {
+            "date": "17-10-2024",
+            "description": "CLG/350612/161024/Bank Of Ce /",
+            "credit": 49079.0,
+            "debit": 0.0,
+            "balance": 262737.27
+        },
+        {
+            "date": "18-10-2024",
+            "description": "IMPS/P2A/429218165933/PavitCeramicsPvtLtd/X077059/UNION BANKOFINDIA/Oth DR THIRUVOTTRIYUR,CHENN AI [TN] 18-10-2024 18-10-2024 UPI/P2A/429276418449/SPK TRANSPORTS       /UPI/Tamilnad Mercantile DR THIRUVOTTRIYUR,CHENN AI [TN] 21-10-2024 21-10-2024 NEFT/CBINQ24295072196/CREATIONS INFRA INDIA PVT LT/CENTRAL BANK OF INDI///ATTN/Munesswaa Marketing",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 154725.47
+        },
+        {
+            "date": "22-10-2024",
+            "description": "UPI/P2A/466223908189/SIVA  S              /gumudi/State Bank Of India",
+            "credit": 0.0,
+            "debit": 4000.0,
+            "balance": 150725.47
+        },
+        {
+            "date": "22-10-2024",
+            "description": "UPI/P2A/466230319655/A GOPINATH           /Gumudi/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 145725.47
+        },
+        {
+            "date": "24-10-2024",
+            "description": "RTGS/HDFCR52024102455228665/D AISHWARYA/HDFC BANK//FAST/FAST",
+            "credit": 217959.0,
+            "debit": 0.0,
+            "balance": 363684.47
+        },
+        {
+            "date": "24-10-2024",
+            "description": "NEFT/BARBD24298877098/BLUELEAF PROJECTS PRIVATE LI/BANK OF BARODA//",
+            "credit": 57847.0,
+            "debit": 0.0,
+            "balance": 421531.47
+        },
+        {
+            "date": "25-10-2024",
+            "description": "NEFT/MB/AXOMB29905863957/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others",
+            "credit": 0.0,
+            "debit": 96740.0,
+            "balance": 324791.47
+        },
+        {
+            "date": "25-10-2024",
+            "description": "NEFT/MB/AXOMB29905868957/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others",
+            "credit": 0.0,
+            "debit": 200000.0,
+            "balance": 124791.47
+        },
+        {
+            "date": "25-10-2024",
+            "description": "NEFT/MB/AXOMB29905876291/PERFECTWARE BUILDING PROD/HDFC BANK/Others-bill no 826",
+            "credit": 0.0,
+            "debit": 18985.0,
+            "balance": 105806.47
+        },
+        {
+            "date": "25-10-2024",
+            "description": "UPI/P2M/466542694610/Google India Service /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 320.9,
+            "balance": 105485.57
+        },
+        {
+            "date": "25-10-2024",
+            "description": "CLG/350615/241024/Bank Of Ce /",
+            "credit": 49079.0,
+            "debit": 0.0,
+            "balance": 154564.57
+        },
+        {
+            "date": "25-10-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 154546.57
+        },
+        {
+            "date": "25-10-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 154446.57
+        },
+        {
+            "date": "28-10-2024",
+            "description": "NEFT/N302243357678898/COROMANDEL ENGINEERING COMPA/HDFC BANK/MUNEESWAA MARKETING",
+            "credit": 54071.0,
+            "debit": 0.0,
+            "balance": 208517.57
+        },
+        {
+            "date": "29-10-2024",
+            "description": "UPI/P2A/430340456499/VENKATESAN  B        /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 21600.0,
+            "balance": 186917.57
+        },
+        {
+            "date": "29-10-2024",
+            "description": "UPI/P2M/466959904731/Amazon Pay           /You ar/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 350.0,
+            "balance": 186567.57
+        },
+        {
+            "date": "01-11-2024",
+            "description": "AUR008206053846_EMI_01-11-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 176097.57
+        },
+        {
+            "date": "01-11-2024",
+            "description": "UPI/P2A/467235452592/P  LATHA             /UPI/State Bank Of India",
+            "credit": 0.0,
+            "debit": 30.0,
+            "balance": 176067.57
+        },
+        {
+            "date": "05-11-2024",
+            "description": "BPR008207920507_EMI_05-11-2024_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 140414.57
+        },
+        {
+            "date": "05-11-2024",
+            "description": "UPI/P2A/467643277024/GOPINATH  A          /Hydera/Axis Bank Ltd.",
+            "credit": 0.0,
+            "debit": 25000.0,
+            "balance": 115414.57
+        },
+        {
+            "date": "05-11-2024",
+            "description": "UPI/P2A/467678424864/M BALAJI             /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 1250.0,
+            "balance": 114164.57
+        },
+        {
+            "date": "06-11-2024",
+            "description": "UPI/P2A/431109752291/MUNISAMI    K        /UPI/Canara Bank",
+            "credit": 0.0,
+            "debit": 11500.0,
+            "balance": 102664.57
+        },
+        {
+            "date": "07-11-2024",
+            "description": "NEFT/N312243381537026/D AISHWARYA/HDFC BANK/",
+            "credit": 30849.0,
+            "debit": 0.0,
+            "balance": 133513.57
+        },
+        {
+            "date": "08-11-2024",
+            "description": "NEFT/N313243384870855/KALEESUWARI REFINERY PRIVATE/HDFC BANK/1500009658",
+            "credit": 44750.0,
+            "debit": 0.0,
+            "balance": 178263.57
+        },
+        {
+            "date": "11-11-2024",
+            "description": "NEFT/AXOBR31633033815/ARCHINOVAHYDERABAD/AXIS BANK/",
+            "credit": 77459.0,
+            "debit": 0.0,
+            "balance": 255722.57
+        },
+        {
+            "date": "12-11-2024",
+            "description": "UPI/P2A/468389170564/IMMANUEL  R          /UPI/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 12440.0,
+            "balance": 243282.57
+        },
+        {
+            "date": "13-11-2024",
+            "description": "UPI/P2M/468438710097/Google India Service /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 510.9,
+            "balance": 242771.67
+        },
+        {
+            "date": "14-11-2024",
+            "description": "NEFT/38293554361DC/AQUAAWORLD GREENTECH/ICICI BANK LIMITED/BULD44710894",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 342771.67
+        },
+        {
+            "date": "16-11-2024",
+            "description": "NEFT/MB/AXOMB32167644232/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others-Bill no 1433 DR THIRUVOTTRIYUR,CHENN AI [TN] 18-11-2024 18-11-2024 BRN-CLG-CHQ PAID TO Corporation Of /H D F C BANK L 224009 DR CCGOI HYDERABAD  HYD TG 18-11-2024 18-11-2024 UPI/P2A/432311911302/THE TAMIL/Kotak Mah/NA/ CR THIRUVOTTRIYUR,CHENN AI [TN] 18-11-2024 18-11-2024 NEFT/N323243404375019/SRI BALAAJI ENTERPRISES/HDFC BANK/advance",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 140831.67
+        },
+        {
+            "date": "18-11-2024",
+            "description": "NEFT/P323240377111222/SRI BALAAJI ENTERPRISES/CANARA BANK/",
+            "credit": 5000.0,
+            "debit": 0.0,
+            "balance": 145831.67
+        },
+        {
+            "date": "19-11-2024",
+            "description": "UPI/P2A/432422854390/THE TAMIL/Kotak Mah/NA/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 195831.67
+        },
+        {
+            "date": "20-11-2024",
+            "description": "INB/82804393/GST TAX PAYMENT/241120330013990/",
+            "credit": 0.0,
+            "debit": 37253.0,
+            "balance": 158578.67
+        },
+        {
+            "date": "22-11-2024",
+            "description": "IMPS/P2A/432712215669/JOELJOHN/KARURVYS/DevakiTr/91 90420773279053000",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 208578.67
+        },
+        {
+            "date": "22-11-2024",
+            "description": "UPI/P2A/469342587475/JOEL JOHN/Karur Vys/UPI/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 258578.67
+        },
+        {
+            "date": "22-11-2024",
+            "description": "UPI/P2A/469380987073/JOEL JOHN/Karur Vys/UPI/",
+            "credit": 16560.0,
+            "debit": 0.0,
+            "balance": 275138.67
+        },
+        {
+            "date": "22-11-2024",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 275120.67
+        },
+        {
+            "date": "22-11-2024",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 275020.67
+        },
+        {
+            "date": "23-11-2024",
+            "description": "NEFT/MB/AXOMB32815918474/Sri Akshara Tile world/TAMILNAD MERCANTILE /Others-Pavit payment",
+            "credit": 0.0,
+            "debit": 54203.0,
+            "balance": 220817.67
+        },
+        {
+            "date": "25-11-2024",
+            "description": "UPI/P2A/433072871533/JUDAH INT/CITY UNIO/UPI/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 270817.67
+        },
+        {
+            "date": "25-11-2024",
+            "description": "NEFT/MB/AXOMB33028162514/Sri Amman and Co/CANARA BANK/Others",
+            "credit": 0.0,
+            "debit": 102598.0,
+            "balance": 168219.67
+        },
+        {
+            "date": "25-11-2024",
+            "description": "UPI/P2A/433012480543/DEEPIKA              /for he/UCO Bank",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 163219.67
+        },
+        {
+            "date": "25-11-2024",
+            "description": "UPI/P2M/433054784859/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 153219.67
+        },
+        {
+            "date": "25-11-2024",
+            "description": "UPI/P2A/433051295622/JUDAH INT/City Unio/UPI/",
+            "credit": 26000.0,
+            "debit": 0.0,
+            "balance": 179219.67
+        },
+        {
+            "date": "26-11-2024",
+            "description": "UPI/P2A/433108072106/JAIKUMAR K           /Oct Fi/Indian Overseas Bank",
+            "credit": 0.0,
+            "debit": 750.0,
+            "balance": 178469.67
+        },
+        {
+            "date": "26-11-2024",
+            "description": "UPI/P2A/433194573342/JUDAH INT/CITY UNIO/UPI/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 228469.67
+        },
+        {
+            "date": "27-11-2024",
+            "description": "INB/NEFT/AXOIR33243522381/Osiyano Tile/HDFC BANK/pavit tile advance",
+            "credit": 0.0,
+            "debit": 114000.0,
+            "balance": 114469.67
+        },
+        {
+            "date": "27-11-2024",
+            "description": "UPI/P2A/433255553659/MUNISAMI    K        /Gobich/CANARA BANK",
+            "credit": 0.0,
+            "debit": 4500.0,
+            "balance": 109969.67
+        },
+        {
+            "date": "28-11-2024",
+            "description": "NEFT/P333240380359177/SRI BALAAJI ENTERPRISES/CANARA BANK/",
+            "credit": 62500.0,
+            "debit": 0.0,
+            "balance": 172469.67
+        },
+        {
+            "date": "28-11-2024",
+            "description": "UPI/P2A/469946540670/SPK TRANSPORTS /Mahaba/Tamilnad Mercantile",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 167469.67
+        },
+        {
+            "date": "01-12-2024",
+            "description": "AUR008206053846_EMI_01-12-2024_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 156999.67
+        },
+        {
+            "date": "02-12-2024",
+            "description": "INB/NEFT/AXOIR33779843183/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bill 9700",
+            "credit": 0.0,
+            "debit": 36720.0,
+            "balance": 120279.67
+        },
+        {
+            "date": "04-12-2024",
+            "description": "SAK/CASH DEP/SAK420375127/1619/SELF",
+            "credit": 110000.0,
+            "debit": 0.0,
+            "balance": 230279.67
+        },
+        {
+            "date": "04-12-2024",
+            "description": "INB/NEFT/AXOIR33992344762/Pavit Ceramics Pvt Lt/UNION BANK OF INDIA/bill 1433 1484 DR THIRUVOTTRIYUR,CHENN AI [TN] 04-12-2024 04-12-2024 UPI/P2A/433917246154/OM SAI TRANSPORT /Hydera/HDFC BANK LTD DR THIRUVOTTRIYUR,CHENN AI [TN] 04-12-2024 04-12-2024 IMPS/P2A/433922848780/THARANID/ICICIBAN/NA/91996210 99179229726 CR THIRUVOTTRIYUR,CHENN AI [TN] 05-12-2024 05-12-2024 BPR008207920507_EMI_05-12-2024_MUNEESWAA MARKETING DR RETAIL ASSET MANAGEMENT GR-RAM 05-12-2024 05-12-2024 UPI/P2A/434024673850/SPK TRANSPORTS /Madura/Tamilnad Mercantile DR THIRUVOTTRIYUR,CHENN AI [TN] 06-12-2024 06-12-2024 Dr Card Charges GST ANNUAL 4505XXXXXXXX9520 DR THIRUVOTTRIYUR,CHENN AI [TN] 09-12-2024 09-12-2024 UPI/P2M/471094264083/Euronet Services Indi/UPI/AXIS BANK DR THIRUVOTTRIYUR,CHENN AI [TN] 09-12-2024 09-12-2024 CLG/042400/071224/Icici Bank /Revathi Mathu",
+            "credit": 125833.0,
+            "debit": 0.0,
+            "balance": 144692.77
+        },
+        {
+            "date": "10-12-2024",
+            "description": "UPI/P2A/471110292532/SPK TRANSPORTS       /UPI/Tamilnad Mercantile",
+            "credit": 0.0,
+            "debit": 6000.0,
+            "balance": 138692.77
+        },
+        {
+            "date": "11-12-2024",
+            "description": "CLG/000332/101224/Icici Bank /",
+            "credit": 245215.0,
+            "debit": 0.0,
+            "balance": 383907.77
+        },
+        {
+            "date": "11-12-2024",
+            "description": "UPI/P2A/471277425383/IMMANUEL  R          /UPI/INDIAN OVERSEAS BANK",
+            "credit": 0.0,
+            "debit": 11520.0,
+            "balance": 372387.77
+        },
+        {
+            "date": "11-12-2024",
+            "description": "UPI/P2A/471297342995/DUMMY NAME           /UPI/South Indian Bank",
+            "credit": 0.0,
+            "debit": 23520.0,
+            "balance": 348867.77
+        },
+        {
+            "date": "12-12-2024",
+            "description": "UPI/P2A/471324895230/RAPARTHI /IDBI BANK/tikes vi/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 398867.77
+        },
+        {
+            "date": "12-12-2024",
+            "description": "UPI/P2M/434773405449/KERALA ROADWAYS P LTD/Sent u/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 4900.0,
+            "balance": 393967.77
+        },
+        {
+            "date": "12-12-2024",
+            "description": "NEFT/MB/AXOMB34750292220/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others DR THIRUVOTTRIYUR,CHENN AI [TN] 12-12-2024 12-12-2024 UPI/P2A/471330812589/SHAMSHED BEGUM U /UPI/Tamilnad Mercantile DR THIRUVOTTRIYUR,CHENN AI [TN] 13-12-2024 13-12-2024 NEFT/MB/AXOMB34855911905/Muneeswaa Marketing/UNION BANK OF INDIA/ DR THIRUVOTTRIYUR,CHENN AI [TN] 14-12-2024 14-12-2024 UPI/P2A/471581623895/SHAMSHED BEGUM U /UPI/Tamilnad Mercantile DR THIRUVOTTRIYUR,CHENN AI [TN] 14-12-2024 14-12-2024 UPI/P2A/471546427516/BAKKIYA  N           /UPI/State Bank Of India DR THIRUVOTTRIYUR,CHENN AI [TN] 15-12-2024 15-12-2024 UPI/P2A/471660960028/GOPINATH  A          /Visak/State Bank Of India DR THIRUVOTTRIYUR,CHENN AI [TN] 15-12-2024 15-12-2024 UPI/P2A/471680869974/GOPINATH  A          /loadin/AXIS BANK DR THIRUVOTTRIYUR,CHENN AI [TN] 15-12-2024 15-12-2024 UPI/P2A/435024568388/R VIJAY K/INDIAN OV/tiles ku/ CR THIRUVOTTRIYUR,CHENN AI [TN] 16-12-2024 16-12-2024 UPI/P2A/435165686723/R VIJAY K/INDIAN OV/tiles ku/ CR THIRUVOTTRIYUR,CHENN AI [TN] 17-12-2024 17-12-2024 SAK/CASH DEP/SAK422061819/1619/LOKNATH",
+            "credit": 250000.0,
+            "debit": 0.0,
+            "balance": 332967.77
+        },
+        {
+            "date": "17-12-2024",
+            "description": "INB/NEFT/AXOIR35283861207/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/bill no 1005",
+            "credit": 0.0,
+            "debit": 9960.0,
+            "balance": 323007.77
+        },
+        {
+            "date": "17-12-2024",
+            "description": "SAK/CASH DEP/SAK422105314/1619/LOKNATH",
+            "credit": 240000.0,
+            "debit": 0.0,
+            "balance": 563007.77
+        },
+        {
+            "date": "17-12-2024",
+            "description": "INB/NEFT/AXOIR35284083700/Pavit Ceramics Pvt Lt/UNION BANK OF INDIA/bills 1578 1614 part DR THIRUVOTTRIYUR,CHENN AI [TN] 19-12-2024 19-12-2024 NEFT/KVBLH00224536201/MBCONSTRUCTIONS/KARUR VYSYA BANK/NANAMUNEESWAA MARKETING",
+            "credit": 45000.0,
+            "debit": 0.0,
+            "balance": 108007.77
+        },
+        {
+            "date": "19-12-2024",
+            "description": "NEFT/MB/AXOMB35499097014/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/Others DR THIRUVOTTRIYUR,CHENN AI [TN] 19-12-2024 19-12-2024 UPI/P2A/435484159450/SATHISH KUMAR N      /Rice d/CANARA BANK DR THIRUVOTTRIYUR,CHENN AI [TN] 19-12-2024 19-12-2024 UPI/P2A/206038080732/DHANDAPAN/ICICI Ban/Payment/ CR THIRUVOTTRIYUR,CHENN AI [TN] 21-12-2024 21-12-2024 CLG/147683/201224/Central Ba /Drawer Name Not Avai",
+            "credit": 524567.0,
+            "debit": 0.0,
+            "balance": 596582.77
+        },
+        {
+            "date": "21-12-2024",
+            "description": "CLG/000338/201224/Icici Bank /Aquaa Worls",
+            "credit": 139060.0,
+            "debit": 0.0,
+            "balance": 735642.77
+        },
+        {
+            "date": "21-12-2024",
+            "description": "BRN-OW RTN CLG: REJECT:147683:Advice not received",
+            "credit": 0.0,
+            "debit": 524567.0,
+            "balance": 211075.77
+        },
+        {
+            "date": "21-12-2024",
+            "description": "BRN-OW RTN CLG: REJECT:338:Payment stopped by the DR CCGOI HYDERABAD  HYD TG 21-12-2024 21-12-2024 Monthly Service Chrgs DR THIRUVOTTRIYUR,CHENN AI [TN] 21-12-2024 21-12-2024 GST @18% on Monthly Service Ch DR THIRUVOTTRIYUR,CHENN AI [TN] 23-12-2024 23-12-2024 CLG/355578/211224/Bank Of Ce /Ideal Beach Resort",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 121897.77
+        },
+        {
+            "date": "23-12-2024",
+            "description": "UPI/P2A/435875920833/Mrs M MATHIYAZHAGI /UPI/INDIAN BANK",
+            "credit": 0.0,
+            "debit": 4000.0,
+            "balance": 117897.77
+        },
+        {
+            "date": "23-12-2024",
+            "description": "UPI/P2A/472446774934/JOEL JOHN/KARUR VYS/Devakai/",
+            "credit": 6200.0,
+            "debit": 0.0,
+            "balance": 124097.77
+        },
+        {
+            "date": "23-12-2024",
+            "description": "TRF/AVM KUMARAN/",
+            "credit": 30000.0,
+            "debit": 0.0,
+            "balance": 154097.77
+        },
+        {
+            "date": "23-12-2024",
+            "description": "UPI/P2A/435807646684/R  Balamurugan       /Pondi/State Bank Of India",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 144097.77
+        },
+        {
+            "date": "24-12-2024",
+            "description": "CLG/147683/231224/Central Ba /",
+            "credit": 524567.0,
+            "debit": 0.0,
+            "balance": 668664.77
+        },
+        {
+            "date": "24-12-2024",
+            "description": "INB/86863161/GST TAX PAYMENT/241224330003038/",
+            "credit": 0.0,
+            "debit": 43989.0,
+            "balance": 624675.77
+        },
+        {
+            "date": "24-12-2024",
+            "description": "NEFT/MB/AXOMB35932878540/Osiyano Tile/HDFC BANK/OTHERS",
+            "credit": 0.0,
+            "debit": 254674.0,
+            "balance": 370001.77
+        },
+        {
+            "date": "25-12-2024",
+            "description": "INB/NEFT/AXOIR36038054930/Shree Sainath Road Ca/KARUR VYSYA BANK/BILL 5430 5460",
+            "credit": 0.0,
+            "debit": 94860.0,
+            "balance": 275141.77
+        },
+        {
+            "date": "27-12-2024",
+            "description": "UPI/P2M/436230076646/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 265141.77
+        },
+        {
+            "date": "29-12-2024",
+            "description": "UPI/P2A/436480423337/R VIJAY K/INDIAN OV/tiles vi/",
+            "credit": 11600.0,
+            "debit": 0.0,
+            "balance": 276741.77
+        },
+        {
+            "date": "31-12-2024",
+            "description": "CLG/355579/301224/Bank Of Ce /",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 326741.77
+        },
+        {
+            "date": "31-12-2024",
+            "description": "NEFT/KVBLH00225381305/OM THIRU CERAMICS/KARUR VYSYA BANK/NA NANA NANA NA",
+            "credit": 120000.0,
+            "debit": 0.0,
+            "balance": 446741.77
+        },
+        {
+            "date": "01-01-2025",
+            "description": "AUR008206053846_EMI_01-01-2025_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 436271.77
+        },
+        {
+            "date": "01-01-2025",
+            "description": "IMPS/P2A/500109942918/SUMATHYK/STATEBAN/ReqPay/91 99805396759002000",
+            "credit": 14087.0,
+            "debit": 0.0,
+            "balance": 450358.77
+        },
+        {
+            "date": "02-01-2025",
+            "description": "UPI/P2M/500295613534/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 440358.77
+        },
+        {
+            "date": "02-01-2025",
+            "description": "NEFT/ICIN400252584190/AQUAAWORLD GREENTECH PRIVATE/ICICI BANK LIMITED/BULD46738767",
+            "credit": 139060.0,
+            "debit": 0.0,
+            "balance": 579418.77
+        },
+        {
+            "date": "03-01-2025",
+            "description": "RTGS/SBINR52025010370950882/SIVAPUNNIYAM C/STATE BANK OF INDIA/NEFT",
+            "credit": 229800.0,
+            "debit": 0.0,
+            "balance": 809218.77
+        },
+        {
+            "date": "03-01-2025",
+            "description": "NEFT/MB/AXOMB00300596116/Sri Amman and Co/CANARA BANK/OTHERS-PAVIT TILE PAYMENT",
+            "credit": 0.0,
+            "debit": 155418.0,
+            "balance": 653800.77
+        },
+        {
+            "date": "03-01-2025",
+            "description": "NEFT/MB/AXOMB00300603710/Shree Sainath Road Carrie/KARUR VYSYA BANK/OTHERS",
+            "credit": 0.0,
+            "debit": 103950.0,
+            "balance": 549850.77
+        },
+        {
+            "date": "05-01-2025",
+            "description": "BPR008207920507_EMI_05-01-2025_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 514197.77
+        },
+        {
+            "date": "06-01-2025",
+            "description": "UPI/P2A/482731843700/VENATI VI/ICICI Ban/Payment/",
+            "credit": 90000.0,
+            "debit": 0.0,
+            "balance": 604197.77
+        },
+        {
+            "date": "06-01-2025",
+            "description": "UPI/P2A/093332362746/RAJAMANDR/ICICI Ban/Payment/",
+            "credit": 39560.0,
+            "debit": 0.0,
+            "balance": 643757.77
+        },
+        {
+            "date": "06-01-2025",
+            "description": "UPI/P2A/537242522875/IMMANUEL  R          /chit/INDIAN OVERSEAS BANK",
+            "credit": 0.0,
+            "debit": 5555.0,
+            "balance": 638202.77
+        },
+        {
+            "date": "07-01-2025",
+            "description": "TRF/AVM KUMARAN/yourself",
+            "credit": 180000.0,
+            "debit": 0.0,
+            "balance": 818202.77
+        },
+        {
+            "date": "07-01-2025",
+            "description": "UPI/P2A/537369978942/T  SHAIK USMAN       /Hydera/State Bank Of India",
+            "credit": 0.0,
+            "debit": 12000.0,
+            "balance": 806202.77
+        },
+        {
+            "date": "08-01-2025",
+            "description": "UPI/P2M/500804840905/Pushpa Provision Stor/pushpa/AXIS BANK",
+            "credit": 0.0,
+            "debit": 6805.0,
+            "balance": 799397.77
+        },
+        {
+            "date": "08-01-2025",
+            "description": "NEFT/ICIN400856567814/MB CONSTRUCTIONS/ICICI BANK LIMITED/MUNEESWARAMARKETING",
+            "credit": 43950.0,
+            "debit": 0.0,
+            "balance": 843347.77
+        },
+        {
+            "date": "08-01-2025",
+            "description": "UPI/P2A/500833350380/T  SHAIK USMAN       /Hydera/State Bank Of India",
+            "credit": 0.0,
+            "debit": 2300.0,
+            "balance": 841047.77
+        },
+        {
+            "date": "09-01-2025",
+            "description": "CLG/355580/080125/Bank Of Ce /Ideal Beach Resort",
+            "credit": 42231.0,
+            "debit": 0.0,
+            "balance": 883278.77
+        },
+        {
+            "date": "09-01-2025",
+            "description": "INB/NEFT/AXOIR00942951732/SANTHIRAJ BUILD MART/STATE BANK OF INDIA/BILL 6274 7545 7629 10891 132",
+            "credit": 0.0,
+            "debit": 163227.0,
+            "balance": 720051.77
+        },
+        {
+            "date": "09-01-2025",
+            "description": "SAK/CASH WDL/SAK424968483/1619/THIRUVOTT/SELF 224010",
+            "credit": 0.0,
+            "debit": 510000.0,
+            "balance": 210051.77
+        },
+        {
+            "date": "09-01-2025",
+            "description": "UPI/P2A/537529536992/SENTHIL R/AXIS BANK/UPI/",
+            "credit": 25000.0,
+            "debit": 0.0,
+            "balance": 235051.77
+        },
+        {
+            "date": "09-01-2025",
+            "description": "NEFT/N009253506107550/CAVINKARE PRIVATE LTD TRENDS/HDFC BANK/MUNEESW",
+            "credit": 140640.0,
+            "debit": 0.0,
+            "balance": 375691.77
+        },
+        {
+            "date": "16-01-2025",
+            "description": "UPI/P2A/501604240446/SENTHIL R/AXIS BANK/UPI/",
+            "credit": 25000.0,
+            "debit": 0.0,
+            "balance": 400691.77
+        },
+        {
+            "date": "16-01-2025",
+            "description": "UPI/P2A/501641944954/SENTHIL R/AXIS BANK/UPI/",
+            "credit": 23000.0,
+            "debit": 0.0,
+            "balance": 423691.77
+        },
+        {
+            "date": "16-01-2025",
+            "description": "NEFT/MB/AXOMB01691595735/Muneeswaa Marketing/UNION BANK OF INDIA/",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 373691.77
+        },
+        {
+            "date": "18-01-2025",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 373591.77
+        },
+        {
+            "date": "18-01-2025",
+            "description": "GST @18% on ATM withdrawal Chr",
+            "credit": 0.0,
+            "debit": 3.6,
+            "balance": 373588.17
+        },
+        {
+            "date": "18-01-2025",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 373570.17
+        },
+        {
+            "date": "18-01-2025",
+            "description": "ATM withdrawal Chrgs",
+            "credit": 0.0,
+            "debit": 20.0,
+            "balance": 373550.17
+        },
+        {
+            "date": "20-01-2025",
+            "description": "NEFT/MB/AXOMB02019630697/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/OTHERS",
+            "credit": 0.0,
+            "debit": 269790.0,
+            "balance": 103760.17
+        },
+        {
+            "date": "22-01-2025",
+            "description": "BY CASH DEPOSIT- BNA/TWRO161902/6731/220125/THIRUVA",
+            "credit": 42500.0,
+            "debit": 0.0,
+            "balance": 146260.17
+        },
+        {
+            "date": "23-01-2025",
+            "description": "BY CASH DEPOSIT- BNA/TWRO161902/7000/230125/THIRUVA",
+            "credit": 55400.0,
+            "debit": 0.0,
+            "balance": 201660.17
+        },
+        {
+            "date": "23-01-2025",
+            "description": "UPI/P2A/502313139592/SPK TRANSPORTS /UPI/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 12000.0,
+            "balance": 189660.17
+        },
+        {
+            "date": "24-01-2025",
+            "description": "CLG/007872/230125/Karur Vysy /White Brick Engineer",
+            "credit": 240227.0,
+            "debit": 0.0,
+            "balance": 429887.17
+        },
+        {
+            "date": "24-01-2025",
+            "description": "INB/90764433/GST TAX PAYMENT/250124330016307/",
+            "credit": 0.0,
+            "debit": 109364.0,
+            "balance": 320523.17
+        },
+        {
+            "date": "25-01-2025",
+            "description": "UPI/P2M/539168028167/Zepto                /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 1572.48,
+            "balance": 318950.69
+        },
+        {
+            "date": "26-01-2025",
+            "description": "UPI/P2M/539223693261/Zepto                /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 262.07,
+            "balance": 318688.62
+        },
+        {
+            "date": "27-01-2025",
+            "description": "NEFT/0127i29115786781/SHARANYA ASSOCIATES/IDBI BANK/SL////BL//TILES TIRUNELVELI//",
+            "credit": 70525.0,
+            "debit": 0.0,
+            "balance": 389213.62
+        },
+        {
+            "date": "28-01-2025",
+            "description": "NEFT/MB/AXOMB02873753543/Osiyano Tile/HDFC BANK/OTHERS-BILLS 2028 1542 1595",
+            "credit": 0.0,
+            "debit": 133670.0,
+            "balance": 255543.62
+        },
+        {
+            "date": "28-01-2025",
+            "description": "UPI/P2A/539452949436/ANAND KRI/AXIS BANK/UPI/",
+            "credit": 2066.0,
+            "debit": 0.0,
+            "balance": 257609.62
+        },
+        {
+            "date": "29-01-2025",
+            "description": "NEFT/HDFCH00028724458/CHAITANYA FOUNDATIONS PRIVAT/HDFC BANK/0001NEFT  - Muneeswaa-0082232",
+            "credit": 206092.0,
+            "debit": 0.0,
+            "balance": 463701.62
+        },
+        {
+            "date": "29-01-2025",
+            "description": "NEFT/HDFCH00028724457/CHAITANYA FOUNDATIONS PRIVAT/HDFC BANK/0001NEFT  - Muneeswaa-0082232",
+            "credit": 155237.0,
+            "debit": 0.0,
+            "balance": 618938.62
+        },
+        {
+            "date": "30-01-2025",
+            "description": "IMPS/P2A/503016432985/SriAksharaTileworld/X950005/TAMIL NADMERCANTILEBA",
+            "credit": 0.0,
+            "debit": 250056.8,
+            "balance": 368881.82
+        },
+        {
+            "date": "31-01-2025",
+            "description": "RTGS/HDFCR52025013186075431/CHOURASIA INFRATECH PV/HDFC BANK//FAST/FAST",
+            "credit": 202934.0,
+            "debit": 0.0,
+            "balance": 571815.82
+        },
+        {
+            "date": "01-02-2025",
+            "description": "AUR008206053846_EMI_01-02-2025_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 561345.82
+        },
+        {
+            "date": "02-02-2025",
+            "description": "UPI/P2M/539980005805/ZEPTO MARKETPLACE PRI/UPI/AXIS BANK",
+            "credit": 0.0,
+            "debit": 1894.29,
+            "balance": 559451.53
+        },
+        {
+            "date": "02-02-2025",
+            "description": "INB/NEFT/AXOIR03309586261/Shree Sainath Road Ca/KARUR VYSYA BANK/LR 5480 5488",
+            "credit": 0.0,
+            "debit": 240966.0,
+            "balance": 318485.53
+        },
+        {
+            "date": "03-02-2025",
+            "description": "UPI/P2M/540057262923/APOLLO HOME HEALTHCAR/Alpha/ICICI Bank",
+            "credit": 0.0,
+            "debit": 21000.0,
+            "balance": 297485.53
+        },
+        {
+            "date": "04-02-2025",
+            "description": "UPI/P2A/540188409061/SPK TRANSPORTS /UPI/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 8700.0,
+            "balance": 288785.53
+        },
+        {
+            "date": "04-02-2025",
+            "description": "UPI/P2M/540136118254/ZEPTO                /UPI/Kotak Mahindra Bank",
+            "credit": 0.0,
+            "debit": 438.63,
+            "balance": 288346.9
+        },
+        {
+            "date": "05-02-2025",
+            "description": "BPR008207920507_EMI_05-02-2025_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 252693.9
+        },
+        {
+            "date": "05-02-2025",
+            "description": "NEFT/HDFCH00044722136/CKR RETAIL PRIVATE LTD TREND/HDFC BANK/0001MUNEESW",
+            "credit": 28340.0,
+            "debit": 0.0,
+            "balance": 281033.9
+        },
+        {
+            "date": "06-02-2025",
+            "description": "UPI/P2M/503735445281/Zepto                /UPI/NSDL PAYMENTS BANK L",
+            "credit": 0.0,
+            "debit": 597.32,
+            "balance": 280436.58
+        },
+        {
+            "date": "06-02-2025",
+            "description": "UPI/P2M/503717682510/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 270436.58
+        },
+        {
+            "date": "07-02-2025",
+            "description": "UPI/P2A/540461202880/M SHAHRUK/ICICI Ban/tiles/",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 370436.58
+        },
+        {
+            "date": "07-02-2025",
+            "description": "UPI/P2A/503855347989/SHAHRUKH /HDFC BANK/UPI/",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 470436.58
+        },
+        {
+            "date": "07-02-2025",
+            "description": "NEFT/MB/AXOMB03844624692/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/OTHERS",
+            "credit": 0.0,
+            "debit": 265907.0,
+            "balance": 204529.58
+        },
+        {
+            "date": "08-02-2025",
+            "description": "UPI/P2M/540533699102/R NEETHIRAJAN        /Rice/YES BANK LIMITED YBS",
+            "credit": 0.0,
+            "debit": 2050.0,
+            "balance": 202479.58
+        },
+        {
+            "date": "09-02-2025",
+            "description": "UPI/P2A/540657700054/THARANI D            /Hand C/ICICI Bank",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 152479.58
+        },
+        {
+            "date": "09-02-2025",
+            "description": "UPI/P2A/540611803829/THARANI D            /Hand C/ICICI Bank",
+            "credit": 0.0,
+            "debit": 30000.0,
+            "balance": 122479.58
+        },
+        {
+            "date": "10-02-2025",
+            "description": "NEFT/HDFCH00054392156/TEEMAGE BUILDERS PVT LTD/HDFC BANK/00013166 MUNEESWAA MARKE",
+            "credit": 200000.0,
+            "debit": 0.0,
+            "balance": 322479.58
+        },
+        {
+            "date": "10-02-2025",
+            "description": "CLG/031501/070225/Union Bank /",
+            "credit": 225781.0,
+            "debit": 0.0,
+            "balance": 548260.58
+        },
+        {
+            "date": "10-02-2025",
+            "description": "INB/IFT/SAI KAMAL DESIGNER/TPARTY TRANSFER",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 598260.58
+        },
+        {
+            "date": "11-02-2025",
+            "description": "UPI/P2A/504277771683/SPK TRANSPORTS /Transp/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 588260.58
+        },
+        {
+            "date": "12-02-2025",
+            "description": "UPI/P2A/540931653945/M SHAHRUK/ICICI Ban/UPI/",
+            "credit": 47296.0,
+            "debit": 0.0,
+            "balance": 635556.58
+        },
+        {
+            "date": "12-02-2025",
+            "description": "NEFT/IOBAN25043431498/VIBHA STRUCTURE PRIVATE LIMI/INDIAN OVERSEAS BANK/",
+            "credit": 193420.0,
+            "debit": 0.0,
+            "balance": 828976.58
+        },
+        {
+            "date": "14-02-2025",
+            "description": "UPI/P2A/504524735315/SPK TRANSPORTS /UPI/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 818976.58
+        },
+        {
+            "date": "15-02-2025",
+            "description": "UPI/P2A/541278516466/Mrs Thamayanthi Sekar/UPI/INDIAN BANK",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 817976.58
+        },
+        {
+            "date": "15-02-2025",
+            "description": "NEFT/MB/AXOMB04697642111/Ganga Home Decor/KARUR VYSYA BANK/OTHERS-PAVIT TILES",
+            "credit": 0.0,
+            "debit": 103060.0,
+            "balance": 714916.58
+        },
+        {
+            "date": "15-02-2025",
+            "description": "UPI/P2A/541285048501/MUNISAMI    K        /Bangal/CANARA BANK",
+            "credit": 0.0,
+            "debit": 18000.0,
+            "balance": 696916.58
+        },
+        {
+            "date": "16-02-2025",
+            "description": "NEFT/HDFCH00067682403/TEEMAGE BUILDERS PVT LTD/HDFC BANK/00013166 MUNEESWAA MARKE",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 796916.58
+        },
+        {
+            "date": "17-02-2025",
+            "description": "UPI/P2A/541488618621/SPK TRANSPORTS /UPI/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 7800.0,
+            "balance": 789116.58
+        },
+        {
+            "date": "18-02-2025",
+            "description": "NEFT/IOBAN25049016555/VIBHA STRUCTURE PRIVATE LIMI/INDIAN OVERSEAS BANK/REF/ ////////",
+            "credit": 66550.0,
+            "debit": 0.0,
+            "balance": 855666.58
+        },
+        {
+            "date": "19-02-2025",
+            "description": "UPI/P2M/505060872133/ZEPTO MARKETPLACE PRI/UPI/AIRTEL PAYMENTS BANK",
+            "credit": 0.0,
+            "debit": 680.74,
+            "balance": 854985.84
+        },
+        {
+            "date": "19-02-2025",
+            "description": "NEFT/MB/AXOMB05022921168/SANTHIRAJ BUILD MART PVT/STATE BANK OF INDIA/OTHERS",
+            "credit": 0.0,
+            "debit": 23100.0,
+            "balance": 831885.84
+        },
+        {
+            "date": "20-02-2025",
+            "description": "NEFT/MB/AXOMB05129165705/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/OTHERS-BILL 2576 2801",
+            "credit": 0.0,
+            "debit": 646575.0,
+            "balance": 185310.84
+        },
+        {
+            "date": "21-02-2025",
+            "description": "NEFT/010681704737/G K S CONSTRUCTION/UNION BANK OF INDIA/TRANSFER//NA",
+            "credit": 300000.0,
+            "debit": 0.0,
+            "balance": 485310.84
+        },
+        {
+            "date": "21-02-2025",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 485292.84
+        },
+        {
+            "date": "21-02-2025",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 485192.84
+        },
+        {
+            "date": "22-02-2025",
+            "description": "NEFT/MB/AXOMB05342986334/SANTHIRAJ BUILD MART PVT/STATE BANK OF INDIA/OTHERS",
+            "credit": 0.0,
+            "debit": 200000.0,
+            "balance": 285192.84
+        },
+        {
+            "date": "24-02-2025",
+            "description": "NEFT/HDFCH00079523607/D AISHWARYA/HDFC BANK/0001",
+            "credit": 9018.0,
+            "debit": 0.0,
+            "balance": 294210.84
+        },
+        {
+            "date": "24-02-2025",
+            "description": "UPI/P2A/542192712905/GOPINATH  A          /Loadin/AXIS BANK",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 289210.84
+        },
+        {
+            "date": "25-02-2025",
+            "description": "UPI/P2A/542256249996/LOKNATH S K          /UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 1000.0,
+            "balance": 288210.84
+        },
+        {
+            "date": "26-02-2025",
+            "description": "UPI/P2A/815825340731/DHANDAPAN/ICICI Ban/Payment/",
+            "credit": 20522.0,
+            "debit": 0.0,
+            "balance": 308732.84
+        },
+        {
+            "date": "26-02-2025",
+            "description": "NEFT/HDFCH00082961808/CKR RETAIL PRIVATE LTD TREND/HDFC BANK/0001MUNEESW",
+            "credit": 284600.0,
+            "debit": 0.0,
+            "balance": 593332.84
+        },
+        {
+            "date": "27-02-2025",
+            "description": "UPI/P2A/505809895468/B DEVI               /15 day/KARUR VYSA BANK",
+            "credit": 0.0,
+            "debit": 6000.0,
+            "balance": 587332.84
+        },
+        {
+            "date": "27-02-2025",
+            "description": "UPI/P2A/542488310487/SAGAYA IGNATIOUS AMAL/UPI/KARNATAKA BANK LTD",
+            "credit": 0.0,
+            "debit": 750.0,
+            "balance": 586582.84
+        },
+        {
+            "date": "01-03-2025",
+            "description": "AUR008206053846_EMI_01-03-2025_IMMANUEL  R",
+            "credit": 0.0,
+            "debit": 10470.0,
+            "balance": 576112.84
+        },
+        {
+            "date": "01-03-2025",
+            "description": "NEFT/HDFCH00090547718/CHAITANYA FOUNDATIONS PRIVAT/HDFC BANK/0001NEFT  - Muneeswaa-0082232",
+            "credit": 25240.0,
+            "debit": 0.0,
+            "balance": 601352.84
+        },
+        {
+            "date": "03-03-2025",
+            "description": "UPI/P2M/542816688593/GRT Jewellers India P/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 591352.84
+        },
+        {
+            "date": "03-03-2025",
+            "description": "NEFT/010682217690/G K S CONSTRUCTION/UNION BANK OF INDIA/TRANSFER//NA CR RTGS HUB 04-03-2025 04-03-2025 NEFT/MB/AXOMB06308376165/SANTHIRAJ BUILD MART PVT/STATE BANK OF INDIA/OTHERS-BILL 18568 DR THIRUVOTTRIYUR,CHENN AI [TN] 04-03-2025 04-03-2025 NEFT/MB/AXOMB06308386208/Sri Sai Krishna Ceramics/INDIAN BANK/OTHERS-BILL 2588",
+            "credit": 0.0,
+            "debit": 180000.0,
+            "balance": 911352.84
+        },
+        {
+            "date": "04-03-2025",
+            "description": "NEFT/MB/AXOMB06309088304/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/OTHERS-BILL 2801 2843",
+            "credit": 0.0,
+            "debit": 334158.0,
+            "balance": 577194.84
+        },
+        {
+            "date": "04-03-2025",
+            "description": "NEFT/MB/AXOMB06310028146/Muneeswaa Marketing/UNION BANK OF INDIA/",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 527194.84
+        },
+        {
+            "date": "05-03-2025",
+            "description": "BPR008207920507_EMI_05-03-2025_MUNEESWAA MARKETING",
+            "credit": 0.0,
+            "debit": 35653.0,
+            "balance": 491541.84
+        },
+        {
+            "date": "06-03-2025",
+            "description": "UPI/P2A/506593869113/GEETHALAKSHMI S /UPI/CANARA BANK",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 481541.84
+        },
+        {
+            "date": "08-03-2025",
+            "description": "UPI/P2A/506747973498/VENKATESAN  B        /advanc/State Bank Of India",
+            "credit": 0.0,
+            "debit": 45000.0,
+            "balance": 436541.84
+        },
+        {
+            "date": "09-03-2025",
+            "description": "UPI/P2M/543455738353/Pushpa Provision Stor/pushpa/AXIS BANK",
+            "credit": 0.0,
+            "debit": 5819.0,
+            "balance": 430722.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "UPI/P2A/506968636704/THARANI D            /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 380722.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "UPI/P2A/506976124921/THARANI D            /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 330722.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "NEFT/MB/AXOMB06951432364/Tharani/ICICI BANK LIMITED/",
+            "credit": 0.0,
+            "debit": 100000.0,
+            "balance": 230722.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "NEFT/MB/AXOMB06951441819/Tharani/ICICI BANK LIMITED/",
+            "credit": 0.0,
+            "debit": 100000.0,
+            "balance": 130722.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "NEFT/MB/AXOMB06951439415/Tharani/ICICI BANK LIMITED/OTHERS DR THIRUVOTTRIYUR,CHENN AI [TN] 10-03-2025 10-03-2025 NEFT/HDFCH00113539430/KALEESUWARI REFINERY PRIVATE/HDFC BANK/00011500014724 CR RTGS HUB 10-03-2025 10-03-2025 IMPS/P2A/506919517392/THARANID/ICICIBAN/IMPSTran/91 99621099179229726",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 161442.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "IMPS/P2A/506919519351/THARANID/ICICIBAN/IMPSTran/91 99621099179229726",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 261442.84
+        },
+        {
+            "date": "10-03-2025",
+            "description": "IMPS/P2A/506919521850/THARANID/ICICIBAN/IMPSTran/91 99621099179229726",
+            "credit": 100000.0,
+            "debit": 0.0,
+            "balance": 361442.84
+        },
+        {
+            "date": "12-03-2025",
+            "description": "UPI/P2A/507103046792/THARANI D            /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 311442.84
+        },
+        {
+            "date": "12-03-2025",
+            "description": "UPI/P2A/507100658080/THARANI D            /UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 261442.84
+        },
+        {
+            "date": "13-03-2025",
+            "description": "NEFT/ICIN107275424715/THARANI D/ICICI BANK LIMITED/",
+            "credit": 50000.0,
+            "debit": 0.0,
+            "balance": 311442.84
+        },
+        {
+            "date": "14-03-2025",
+            "description": "NEFT/ICIN407357044104/AQUAAWORLD GREENTECH PRIVATE/ICICI BANK LIMITED/BULD50043968",
+            "credit": 35460.0,
+            "debit": 0.0,
+            "balance": 346902.84
+        },
+        {
+            "date": "14-03-2025",
+            "description": "UPI/P2A/543959598154/SPK TRANSPORTS /transp/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 18000.0,
+            "balance": 328902.84
+        },
+        {
+            "date": "14-03-2025",
+            "description": "NEFT/ICIN407357091833/A V ENTERPRISES/ICICI BANK LIMITED/MuneeswaaMarketing",
+            "credit": 22061.0,
+            "debit": 0.0,
+            "balance": 350963.84
+        },
+        {
+            "date": "14-03-2025",
+            "description": "UPI/P2A/507372911041/GOPINATH  A          /hand l/AXIS BANK",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 300963.84
+        },
+        {
+            "date": "14-03-2025",
+            "description": "UPI/P2A/507375002311/GOPINATH  A          /hand l/AXIS BANK",
+            "credit": 0.0,
+            "debit": 27000.0,
+            "balance": 273963.84
+        },
+        {
+            "date": "17-03-2025",
+            "description": "UPI/P2A/507642335014/SPK TRANSPORTS /UPI/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 5000.0,
+            "balance": 268963.84
+        },
+        {
+            "date": "18-03-2025",
+            "description": "UPI/P2A/507799654651/B DEVI               /UPI/KARUR VYSA BANK",
+            "credit": 0.0,
+            "debit": 6000.0,
+            "balance": 262963.84
+        },
+        {
+            "date": "18-03-2025",
+            "description": "IMPS/P2A/507714488531/AlaguBuildmaartPvtL/X311649/HDFC BANKLTD/",
+            "credit": 0.0,
+            "debit": 16935.9,
+            "balance": 246027.94
+        },
+        {
+            "date": "18-03-2025",
+            "description": "INB/IFT/SAI KAMAL DESIGNER/TPARTY TRANSFER",
+            "credit": 112000.0,
+            "debit": 0.0,
+            "balance": 358027.94
+        },
+        {
+            "date": "19-03-2025",
+            "description": "UPI/P2A/544452318619/Mrs Thamayanthi Sekar/UPI/INDIAN BANK",
+            "credit": 0.0,
+            "debit": 3000.0,
+            "balance": 355027.94
+        },
+        {
+            "date": "19-03-2025",
+            "description": "UPI/P2A/544451348260/VENKATESAN  B        /LR No/State Bank Of India",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 305027.94
+        },
+        {
+            "date": "19-03-2025",
+            "description": "NEFT/HDFCH00129641003/CHAITANYA FOUNDATIONS PRIVAT/HDFC BANK/0001NEFT  - Muneeswaa-0082232",
+            "credit": 216003.0,
+            "debit": 0.0,
+            "balance": 521030.94
+        },
+        {
+            "date": "19-03-2025",
+            "description": "NEFT/KVBLH00231229129/MBCONSTRUCTIONS/KARUR VYSYA BANK/NA NANA NANA NA",
+            "credit": 99527.0,
+            "debit": 0.0,
+            "balance": 620557.94
+        },
+        {
+            "date": "20-03-2025",
+            "description": "UPI/P2A/507989108252/SPK TRANSPORTS /UPI/TAMILNAD MERCANTILE",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 610557.94
+        },
+        {
+            "date": "20-03-2025",
+            "description": "INB/97324517/GST TAX PAYMENT/250320330070710/",
+            "credit": 0.0,
+            "debit": 168993.0,
+            "balance": 441564.94
+        },
+        {
+            "date": "20-03-2025",
+            "description": "UPI/P2A/507948621470/TAMIL VENDHAN V      /UPI/KARUR VYSA BANK",
+            "credit": 0.0,
+            "debit": 3600.0,
+            "balance": 437964.94
+        },
+        {
+            "date": "20-03-2025",
+            "description": "NEFT/IOBAN25079398386/CREATORS ENGINEERS AND INTER/INDIAN OVERSEAS BANK/REF/ ////////",
+            "credit": 148791.0,
+            "debit": 0.0,
+            "balance": 586755.94
+        },
+        {
+            "date": "21-03-2025",
+            "description": "Monthly Service Chrgs",
+            "credit": 0.0,
+            "debit": 100.0,
+            "balance": 586655.94
+        },
+        {
+            "date": "21-03-2025",
+            "description": "GST @18% on Monthly Service Ch",
+            "credit": 0.0,
+            "debit": 18.0,
+            "balance": 586637.94
+        },
+        {
+            "date": "24-03-2025",
+            "description": "UPI/P2M/544960939420/ZEPTO MARKETPLACE PRI/UPI/ICICI Bank",
+            "credit": 0.0,
+            "debit": 560.0,
+            "balance": 586077.94
+        },
+        {
+            "date": "24-03-2025",
+            "description": "NEFT/SBIN325083679183/PHOENIX/STATE BANK OF INDIA//ATTN//INB//ADVANCE PAYMENT T",
+            "credit": 131350.0,
+            "debit": 0.0,
+            "balance": 717427.94
+        },
+        {
+            "date": "25-03-2025",
+            "description": "UPI/P2M/508400140405/MEDPLUS THIRUVETTRIYU/UPI/HDFC BANK LTD",
+            "credit": 0.0,
+            "debit": 2261.0,
+            "balance": 715166.94
+        },
+        {
+            "date": "25-03-2025",
+            "description": "NEFT/HDFCH00139213838/CHAITANYA LIVING SPACES LLP/HDFC BANK/0001NEFT  - Muneeswaa-9990733",
+            "credit": 126037.0,
+            "debit": 0.0,
+            "balance": 841203.94
+        },
+        {
+            "date": "26-03-2025",
+            "description": "UPI/P2A/545159716021/GOPINATH  A          /unload/AXIS BANK",
+            "credit": 0.0,
+            "debit": 10000.0,
+            "balance": 831203.94
+        },
+        {
+            "date": "26-03-2025",
+            "description": "NEFT/MB/AXOMB08564495641/Pavit Ceramics Pvt Ltd/UNION BANK OF INDIA/OTHERS",
+            "credit": 0.0,
+            "debit": 427321.0,
+            "balance": 403882.94
+        },
+        {
+            "date": "27-03-2025",
+            "description": "IMPS/P2A/508616038888/GRACECON/KARURVYS/Pavittil/91 94440037769053000",
+            "credit": 54500.0,
+            "debit": 0.0,
+            "balance": 458382.94
+        },
+        {
+            "date": "28-03-2025",
+            "description": "NEFT/MB/AXOMB08777028350/Krishna Logistics/INDUSIND BANK/OTHERS",
+            "credit": 0.0,
+            "debit": 50000.0,
+            "balance": 408382.94
+        },
+        {
+            "date": "28-03-2025",
+            "description": "NEFT/MB/AXOMB08777753910/Shree Sainath Road Carrie/KARUR VYSYA BANK/OTHERS",
+            "credit": 0.0,
+            "debit": 144391.0,
+            "balance": 263991.94
+        },
+        {
+            "date": "28-03-2025",
+            "description": "UPI/P2A/545325605775/JAIKUMAR K           /Feb fi/INDIAN OVERSEAS BANK",
+            "credit": 0.0,
+            "debit": 750.0,
+            "balance": 263241.94
+        },
+        {
+            "date": "28-03-2025",
+            "description": "UPI/P2A/545301963034/G SUDHAKAR           /UPI/BANK OF BARODA",
+            "credit": 0.0,
+            "debit": 1500.0,
+            "balance": 261741.94
+        },
+        {
+            "date": "29-03-2025",
+            "description": "NEFT/MB/AXOMB08884393682/Osiyano Tile/HDFC BANK/OTHERS",
+            "credit": 0.0,
+            "debit": 138330.0,
+            "balance": 123411.94
+        },
+        {
+            "date": "29-03-2025",
+            "description": "NEFT/CIUBH25088077136/ASHWIN APARTMENTS OPC PRIVAT/CITY UNION BANK LIMI//ATTN/AAOPCBILL13//8MUNEESW",
+            "credit": 109500.0,
+            "debit": 0.0,
+            "balance": 232911.94
+        },
+        {
+            "date": "29-03-2025",
+            "description": "NEFT/CIUBH25088077503/ASHWIN APARTMENTS OPC PRIVAT/CITY UNION BANK LIMI//ATTN/AAOPCBILL14//7MUNEESW",
+            "credit": 395751.0,
+            "debit": 0.0,
+            "balance": 628662.94
+        },
+        {
+            "date": "31-03-2025",
+            "description": "NEFT/MB/AXOMB09098570943/Krishna Logistics/INDUSIND BANK/",
+            "credit": 0.0,
+            "debit": 37700.0,
+            "balance": 590962.94
+        }
+    ],
+    "summary": {
+        "total_credit": 19441302.0,
+        "total_debit": 18163098.03,
+        "transaction_count": 536,
+        "final_balance": 590962.94
+    }
+}
